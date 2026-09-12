@@ -24,6 +24,10 @@
 [Godrekton's Guides](#-godrektons-8-master-guides) •
 [Versão em Português](#-sobre-o-projeto-em-português)
 
+<br/><br/>
+
+<img src="Docs/tutorial/renekton_app_demo.gif" alt="Renekton Matchups Desktop Tool Animated Demo" width="900" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+
 ---
 
 </div>
