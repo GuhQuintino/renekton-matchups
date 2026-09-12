@@ -32,12 +32,12 @@
 
 > [!IMPORTANT]
 > **Please Read Before Using:**
-> - **The App is Far from Perfect**: I created this desktop tool purely out of love for Renekton and as a tribute to **Godrekton**. 
-> - **I Have Zero Coding Experience**: This entire project was engineered utilizing **Artificial Intelligence**. Because I am not a professional software developer, there are rough edges, quirks, and areas that need improvement.
-> - **Help from the Community is Needed and Wanted!**: This repository is **100% open-source**. If you are a developer, a designer, or an experienced Renekton player, **pull requests, bug fixes, issue reports, and feedback are very welcome!** Let's make this the ultimate tool for the community together.
+> - **Who I Am**: I am a Support main and an avid Renekton enthusiast. I only play Renekton when filled Top or Mid. Because I don't play him every game, I always need to study his matchups before ranked games to prepare properly. A huge source of knowledge I've relied on is **Godrekton's** YouTube videos and his spreadsheet, so I decided to turn that compendium into a dedicated offline desktop tool.
+> - **I Am NOT a Programmer**: I built this entire project utilizing **Artificial Intelligence**, with zero prior programming background. Because of that, the application is far from perfect!
+> - **Help from the Community is Needed and Wanted!**: The code is **100% open-source**. If you are a developer, designer, or veteran Renekton player, pull requests, issues, and ideas are very welcome!
 > - **Current App State**:
->   - 🟢 **As a Matchup Study & Theory Tool: EXCELLENT.** Browsing all 170 matchups, studying Godrekton's exact tips, level 1 starts, runes, combos, item builds, and logging your personal post-game notes is blazing fast, beautiful, and completely offline.
->   - 🟡 **As a Live Pre-Game / In-Game Assistant: STILL EXPERIMENTAL.** Automatic League client detection (Champ Select parsing and Live In-Game HUD via Riot local API) works in many cases, but can still be unstable or desync depending on system conditions. Manual selection is always available as a stable fallback.
+>   - 🟢 **As a Matchup Study & Theory Tool: EXCELLENT.** Fast and completely offline: features all 170 matchups with Godrekton's notes, 8 master guides, combo visualizers, level 1 ability leveling tips, tier lists, and an embedded SQLite post-game notes system to track your personal winrate and reminders per matchup.
+>   - 🟡 **Pre & In-Game Live Tracking: EXPERIMENTAL (Manual Use Recommended).** The local League client API integration works in many scenarios, but **I currently recommend using the app manually**: it can sometimes detect the wrong enemy champion (and won't always allow switching), detects any match even when you aren't playing Renekton, and can desync depending on system conditions. Manual matchup selection is always fast and 100% reliable!
 
 ---
 
@@ -196,12 +196,12 @@ npm run tauri:build
 
 ### ⚠️ Nota Sincera do Criador
 > **Aviso Importante:**
-> - **O app não está perfeito (longe disso)**: Criei essa ferramenta desktop como uma homenagem ao **Godrekton** e para ajudar os jogadores de Renekton.
-> - **Não sou programador**: Fiz o projeto **utilizando 100% Inteligência Artificial**, sem conhecimento prévio de desenvolvimento de software. Por isso, podem existir bugs, imperfeições e detalhes para arrumar.
-> - **A comunidade é muito bem-vinda para ajudar!**: O projeto é **100% código aberto**. Quem souber programar ou quiser colaborar com melhorias, fique à vontade para abrir Issues e enviar Pull Requests no GitHub!
+> - **Quem sou eu**: Sou um entusiasta de Renekton, porém sou main suporte e só jogo com ele quando caio top ou mid. Por não jogar tanto com ele com frequência, acabo tendo que rever as matchups para me preparar melhor nas ranqueadas. Uma grande fonte de conhecimento que sempre utilizei é a planilha e os vídeos do **Godrekton**, então decidi transformar todo esse conhecimento em uma ferramenta independente para desktop.
+> - **Não sou programador**: Desenvolvi este aplicativo inteiro **utilizando 100% Inteligência Artificial**, sem conhecimento prévio de desenvolvimento de software. Por isso, o app está longe de ser perfeito!
+> - **A comunidade é muito bem-vinda para ajudar!**: O código é **100% open source sob licença MIT**. Quem souber programar ou quiser colaborar com melhorias, fique à vontade para abrir Issues e enviar Pull Requests no GitHub!
 > - **Estado do Aplicativo**:
->   - 🟢 **Para Estudo de Matchups e Teoria: MUITO BOM.** Consultar os 170 matchups, ver runas, itens iniciais, dicas do Godrekton, combos e salvar anotações pós-jogo no banco SQLite local funciona muito bem e é super rápido e offline.
->   - 🟡 **Para Uso Pré ou In-Game ao Vivo: AINDA EM DESENVOLVIMENTO.** A detecção automática no Champ Select e In-Game através da API local do LoL ainda é experimental e pode falhar ou desincronizar dependendo do computador.
+>   - 🟢 **Como ferramenta de estudo de matchups: É EXCELENTE.** Extremamente rápido, dá para utilizar offline, apresenta todos os 170 matchups com as anotações do Godrekton, os 8 guias principais, visualizadores de combos, tier list, o que upar nível 1 e um sistema integrado de anotações pós-jogo em SQLite para acompanhar sua taxa de vitórias pessoal e deixar lembretes para cada matchup.
+>   - 🟡 **Acompanhamento ao vivo antes e durante o jogo: Ainda EXPERIMENTAL (Recomendo uso manual).** O gancho da API do cliente local do League funciona em muitos casos, mas **recomendo utilizar de forma manual**: ele pode errar o campeão adversário e às vezes não dá para trocar, vai sempre detectar a partida mesmo que você não esteja de Renekton, e pode dessincronizar dependendo das condições do sistema. A consulta manual é instantânea e 100% estável!
 
 ### 📥 Instalação Fácil para Jogadores (Sem complicação)
 1. Vá na aba de **[Releases](https://github.com/GuhQuintino/renekton-matchups/releases/latest)** aqui do GitHub.
