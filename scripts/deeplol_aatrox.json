@@ -1,0 +1,76 @@
+{
+  "aatrox_en": {
+    "levelAdvantage": {
+      "lv1": "불리",
+      "lv2": "불리",
+      "lv3": "유리",
+      "lv4": "유리",
+      "lv5": "유리",
+      "lv6": "유리"
+    },
+    "tips": [
+      {
+        "title": "Dodging Aatrox's Q Skill",
+        "tip": "Aatrox's Q skill deals bonus damage and knocks up enemies hit by the edge. It's crucial to use your E skill to either dash inside Aatrox's Q range or dodge to the side."
+      },
+      {
+        "title": "Disabling Aatrox with Empowered W",
+        "tip": "Aatrox maximizes his healing by adjusting his position with E while casting Q. Renekton's empowered W (Ruthless Predator) has a shield break effect, allowing you to nullify Aatrox's healing and gain an advantage in trades."
+      }
+    ]
+  },
+  "aatrox_ko": {
+    "levelAdvantage": {
+      "lv1": "불리",
+      "lv2": "불리",
+      "lv3": "유리",
+      "lv4": "유리",
+      "lv5": "유리",
+      "lv6": "유리"
+    },
+    "tips": [
+      {
+        "title": "Dodging Aatrox's Q Skill",
+        "tip": "Aatrox's Q skill deals bonus damage and knocks up enemies hit by the edge. It's crucial to use your E skill to either dash inside Aatrox's Q range or dodge to the side."
+      },
+      {
+        "title": "Disabling Aatrox with Empowered W",
+        "tip": "Aatrox maximizes his healing by adjusting his position with E while casting Q. Renekton's empowered W (Ruthless Predator) has a shield break effect, allowing you to nullify Aatrox's healing and gain an advantage in trades."
+      }
+    ]
+  },
+  "aatrox_pt": {
+    "levelAdvantage": {
+      "lv1": "불리",
+      "lv2": "불리",
+      "lv3": "유리",
+      "lv4": "유리",
+      "lv5": "유리",
+      "lv6": "유리"
+    },
+    "tips": [
+      {
+        "title": "Dodging Aatrox's Q Skill",
+        "tip": "Aatrox's Q skill deals bonus damage and knocks up enemies hit by the edge. It's crucial to use your E skill to either dash inside Aatrox's Q range or dodge to the side."
+      },
+      {
+        "title": "Disabling Aatrox with Empowered W",
+        "tip": "Aatrox maximizes his healing by adjusting his position with E while casting Q. Renekton's empowered W (Ruthless Predator) has a shield break effect, allowing you to nullify Aatrox's healing and gain an advantage in trades."
+      }
+    ]
+  },
+  "stats": {
+    "stats_by_position": {
+      "Middle": {
+        "games": 2,
+        "my_win_rate": 50.0,
+        "enemy_win_rate": 50.0
+      },
+      "Top": {
+        "games": 1619,
+        "my_win_rate": 49.78,
+        "enemy_win_rate": 50.22
+      }
+    }
+  }
+}

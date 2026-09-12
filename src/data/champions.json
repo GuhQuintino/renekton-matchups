@@ -1,0 +1,2341 @@
+[
+  {
+    "id": 1,
+    "name": "Aatrox",
+    "sheetName": "Aatrox",
+    "riotKey": "Aatrox",
+    "riotId": 266,
+    "titlePt": "a Espada Darkin",
+    "titleEn": "the Darkin Blade",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aatrox.png"
+  },
+  {
+    "id": 2,
+    "name": "Ahri",
+    "sheetName": "Ahri",
+    "riotKey": "Ahri",
+    "riotId": 103,
+    "titlePt": "a Raposa de Nove Caudas",
+    "titleEn": "the Nine-Tailed Fox",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ahri.png"
+  },
+  {
+    "id": 3,
+    "name": "Akali",
+    "sheetName": "Akali",
+    "riotKey": "Akali",
+    "riotId": 84,
+    "titlePt": "a Assassina Renegada",
+    "titleEn": "the Rogue Assassin",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Akali.png"
+  },
+  {
+    "id": 4,
+    "name": "Akshan",
+    "sheetName": "Akshan",
+    "riotKey": "Akshan",
+    "riotId": 166,
+    "titlePt": "o Sentinela Rebelde",
+    "titleEn": "the Rogue Sentinel",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Akshan.png"
+  },
+  {
+    "id": 5,
+    "name": "Alistar",
+    "sheetName": "Alistar",
+    "riotKey": "Alistar",
+    "riotId": 12,
+    "titlePt": "o Minotauro",
+    "titleEn": "the Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Alistar.png"
+  },
+  {
+    "id": 6,
+    "name": "Ambessa",
+    "sheetName": "Ambessa",
+    "riotKey": "Ambessa",
+    "riotId": 799,
+    "titlePt": "Matriarca da Guerra",
+    "titleEn": "Matriarch of War",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ambessa.png"
+  },
+  {
+    "id": 7,
+    "name": "Amumu",
+    "sheetName": "Amumu",
+    "riotKey": "Amumu",
+    "riotId": 32,
+    "titlePt": "a Múmia Triste",
+    "titleEn": "the Sad Mummy",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Amumu.png"
+  },
+  {
+    "id": 8,
+    "name": "Anivia",
+    "sheetName": "Anivia",
+    "riotKey": "Anivia",
+    "riotId": 34,
+    "titlePt": "a Criofênix",
+    "titleEn": "the Cryophoenix",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Anivia.png"
+  },
+  {
+    "id": 9,
+    "name": "Annie",
+    "sheetName": "Annie",
+    "riotKey": "Annie",
+    "riotId": 1,
+    "titlePt": "a Criança Sombria",
+    "titleEn": "the Dark Child",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Annie.png"
+  },
+  {
+    "id": 10,
+    "name": "Aphelios",
+    "sheetName": "Aphelios",
+    "riotKey": "Aphelios",
+    "riotId": 523,
+    "titlePt": "a Arma dos Devotos",
+    "titleEn": "the Weapon of the Faithful",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aphelios.png"
+  },
+  {
+    "id": 11,
+    "name": "Ashe",
+    "sheetName": "Ashe",
+    "riotKey": "Ashe",
+    "riotId": 22,
+    "titlePt": "a Arqueira do Gelo",
+    "titleEn": "the Frost Archer",
+    "roles": [
+      "Marksman",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ashe.png"
+  },
+  {
+    "id": 12,
+    "name": "Aurelion Sol",
+    "sheetName": "Aurelion Sol",
+    "riotKey": "AurelionSol",
+    "riotId": 136,
+    "titlePt": "o Forjador de Estrelas",
+    "titleEn": "The Star Forger",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/AurelionSol.png"
+  },
+  {
+    "id": 13,
+    "name": "Aurora",
+    "sheetName": "Aurora",
+    "riotKey": "Aurora",
+    "riotId": 893,
+    "titlePt": "a Bruxa Entre Mundos",
+    "titleEn": "the Witch Between Worlds",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aurora.png"
+  },
+  {
+    "id": 14,
+    "name": "Azir",
+    "sheetName": "Azir",
+    "riotKey": "Azir",
+    "riotId": 268,
+    "titlePt": "o Imperador das Areias",
+    "titleEn": "the Emperor of the Sands",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Azir.png"
+  },
+  {
+    "id": 15,
+    "name": "Bard",
+    "sheetName": "Bard",
+    "riotKey": "Bard",
+    "riotId": 432,
+    "titlePt": "o Protetor Andarilho",
+    "titleEn": "the Wandering Caretaker",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Bard.png"
+  },
+  {
+    "id": 16,
+    "name": "Bel'Veth",
+    "sheetName": "Bel'Veth",
+    "riotKey": "Belveth",
+    "riotId": 200,
+    "titlePt": "a Imperatriz do Vazio",
+    "titleEn": "the Empress of the Void",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Belveth.png"
+  },
+  {
+    "id": 17,
+    "name": "Blitzcrank",
+    "sheetName": "Blitzcrank",
+    "riotKey": "Blitzcrank",
+    "riotId": 53,
+    "titlePt": "o Grande Golem a Vapor",
+    "titleEn": "the Great Steam Golem",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Blitzcrank.png"
+  },
+  {
+    "id": 18,
+    "name": "Brand",
+    "sheetName": "Brand",
+    "riotKey": "Brand",
+    "riotId": 63,
+    "titlePt": "a Vingança Flamejante",
+    "titleEn": "the Burning Vengeance",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Brand.png"
+  },
+  {
+    "id": 19,
+    "name": "Braum",
+    "sheetName": "Braum",
+    "riotKey": "Braum",
+    "riotId": 201,
+    "titlePt": "o Coração de Freljord",
+    "titleEn": "the Heart of the Freljord",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Braum.png"
+  },
+  {
+    "id": 20,
+    "name": "Briar",
+    "sheetName": "Briar",
+    "riotKey": "Briar",
+    "riotId": 233,
+    "titlePt": "a Fome Contida",
+    "titleEn": "the Restrained Hunger",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Briar.png"
+  },
+  {
+    "id": 21,
+    "name": "Caitlyn",
+    "sheetName": "Caitlyn",
+    "riotKey": "Caitlyn",
+    "riotId": 51,
+    "titlePt": "a Xerife de Piltover",
+    "titleEn": "the Sheriff of Piltover",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Caitlyn.png"
+  },
+  {
+    "id": 22,
+    "name": "Camille",
+    "sheetName": "Camille",
+    "riotKey": "Camille",
+    "riotId": 164,
+    "titlePt": "a Sombra de Aço",
+    "titleEn": "the Steel Shadow",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Camille.png"
+  },
+  {
+    "id": 23,
+    "name": "Cassiopeia",
+    "sheetName": "Cassiopeia",
+    "riotKey": "Cassiopeia",
+    "riotId": 69,
+    "titlePt": "o Abraço da Serpente",
+    "titleEn": "the Serpent's Embrace",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Cassiopeia.png"
+  },
+  {
+    "id": 24,
+    "name": "Cho'Gath",
+    "sheetName": "Cho'Gath",
+    "riotKey": "Chogath",
+    "riotId": 31,
+    "titlePt": "o Terror do Vazio",
+    "titleEn": "the Terror of the Void",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Chogath.png"
+  },
+  {
+    "id": 25,
+    "name": "Corki",
+    "sheetName": "Corki",
+    "riotKey": "Corki",
+    "riotId": 42,
+    "titlePt": "o Bombardeiro Ousado",
+    "titleEn": "the Daring Bombardier",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Corki.png"
+  },
+  {
+    "id": 26,
+    "name": "Darius",
+    "sheetName": "Darius",
+    "riotKey": "Darius",
+    "riotId": 122,
+    "titlePt": "a Mão de Noxus",
+    "titleEn": "the Hand of Noxus",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Darius.png"
+  },
+  {
+    "id": 27,
+    "name": "Diana",
+    "sheetName": "Diana",
+    "riotKey": "Diana",
+    "riotId": 131,
+    "titlePt": "o Escárnio da Lua",
+    "titleEn": "Scorn of the Moon",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Diana.png"
+  },
+  {
+    "id": 28,
+    "name": "Dr. Mundo",
+    "sheetName": "DR.Mundo",
+    "riotKey": "DrMundo",
+    "riotId": 36,
+    "titlePt": "o Louco de Zaun",
+    "titleEn": "the Madman of Zaun",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/DrMundo.png"
+  },
+  {
+    "id": 29,
+    "name": "Draven",
+    "sheetName": "Draven",
+    "riotKey": "Draven",
+    "riotId": 119,
+    "titlePt": "o Carrasco de Noxus",
+    "titleEn": "the Glorious Executioner",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Draven.png"
+  },
+  {
+    "id": 30,
+    "name": "Ekko",
+    "sheetName": "Ekko",
+    "riotKey": "Ekko",
+    "riotId": 245,
+    "titlePt": "o Rapaz que Estilhaçou o Tempo",
+    "titleEn": "the Boy Who Shattered Time",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ekko.png"
+  },
+  {
+    "id": 31,
+    "name": "Elise",
+    "sheetName": "Elise",
+    "riotKey": "Elise",
+    "riotId": 60,
+    "titlePt": "a Aranha Rainha",
+    "titleEn": "the Spider Queen",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Elise.png"
+  },
+  {
+    "id": 32,
+    "name": "Evelynn",
+    "sheetName": "Evelynn",
+    "riotKey": "Evelynn",
+    "riotId": 28,
+    "titlePt": "o Abraço da Agonia",
+    "titleEn": "Agony's Embrace",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Evelynn.png"
+  },
+  {
+    "id": 33,
+    "name": "Ezreal",
+    "sheetName": "Ezreal",
+    "riotKey": "Ezreal",
+    "riotId": 81,
+    "titlePt": "o Explorador Pródigo",
+    "titleEn": "the Prodigal Explorer",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ezreal.png"
+  },
+  {
+    "id": 34,
+    "name": "Fiddlesticks",
+    "sheetName": "Fiddlesticks",
+    "riotKey": "Fiddlesticks",
+    "riotId": 9,
+    "titlePt": "o Terror Ancestral",
+    "titleEn": "the Ancient Fear",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fiddlesticks.png"
+  },
+  {
+    "id": 35,
+    "name": "Fiora",
+    "sheetName": "Fiora",
+    "riotKey": "Fiora",
+    "riotId": 114,
+    "titlePt": "a Grande Duelista",
+    "titleEn": "the Grand Duelist",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fiora.png"
+  },
+  {
+    "id": 36,
+    "name": "Fizz",
+    "sheetName": "Fizz",
+    "riotKey": "Fizz",
+    "riotId": 105,
+    "titlePt": "o Trapaceiro das Marés",
+    "titleEn": "the Tidal Trickster",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fizz.png"
+  },
+  {
+    "id": 37,
+    "name": "Galio",
+    "sheetName": "Galio",
+    "riotKey": "Galio",
+    "riotId": 3,
+    "titlePt": "o Colosso",
+    "titleEn": "the Colossus",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Galio.png"
+  },
+  {
+    "id": 38,
+    "name": "Gangplank",
+    "sheetName": "Gangplank",
+    "riotKey": "Gangplank",
+    "riotId": 41,
+    "titlePt": "o Terror dos Doze Mares",
+    "titleEn": "the Saltwater Scourge",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gangplank.png"
+  },
+  {
+    "id": 39,
+    "name": "Garen",
+    "sheetName": "Garen",
+    "riotKey": "Garen",
+    "riotId": 86,
+    "titlePt": "o Poder de Demacia",
+    "titleEn": "The Might of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Garen.png"
+  },
+  {
+    "id": 40,
+    "name": "Gnar",
+    "sheetName": "Gnar",
+    "riotKey": "Gnar",
+    "riotId": 150,
+    "titlePt": "o Yordle Pré-Histórico",
+    "titleEn": "the Missing Link",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gnar.png"
+  },
+  {
+    "id": 41,
+    "name": "Gragas",
+    "sheetName": "Gragas",
+    "riotKey": "Gragas",
+    "riotId": 79,
+    "titlePt": "o Badernista",
+    "titleEn": "the Rabble Rouser",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gragas.png"
+  },
+  {
+    "id": 42,
+    "name": "Gwen",
+    "sheetName": "Gwen",
+    "riotKey": "Gwen",
+    "riotId": 887,
+    "titlePt": "A Costureira Encantada",
+    "titleEn": "The Hallowed Seamstress",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gwen.png"
+  },
+  {
+    "id": 43,
+    "name": "Hecarim",
+    "sheetName": "Hecarim",
+    "riotKey": "Hecarim",
+    "riotId": 120,
+    "titlePt": "a Sombra da Guerra",
+    "titleEn": "the Shadow of War",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Hecarim.png"
+  },
+  {
+    "id": 44,
+    "name": "Heimerdinger",
+    "sheetName": "Heimerdinger",
+    "riotKey": "Heimerdinger",
+    "riotId": 74,
+    "titlePt": "o Inventor Idolatrado",
+    "titleEn": "the Revered Inventor",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Heimerdinger.png"
+  },
+  {
+    "id": 45,
+    "name": "Hwei",
+    "sheetName": "Hwei",
+    "riotKey": "Hwei",
+    "riotId": 910,
+    "titlePt": "o Visionário",
+    "titleEn": "the Visionary",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Hwei.png"
+  },
+  {
+    "id": 46,
+    "name": "Illaoi",
+    "sheetName": "Illaoi",
+    "riotKey": "Illaoi",
+    "riotId": 420,
+    "titlePt": "a Sacerdotisa Cráquem",
+    "titleEn": "the Kraken Priestess",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Illaoi.png"
+  },
+  {
+    "id": 47,
+    "name": "Irelia",
+    "sheetName": "Irelia",
+    "riotKey": "Irelia",
+    "riotId": 39,
+    "titlePt": "a Dançarina das Lâminas",
+    "titleEn": "the Blade Dancer",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Irelia.png"
+  },
+  {
+    "id": 48,
+    "name": "Ivern",
+    "sheetName": "Ivern",
+    "riotKey": "Ivern",
+    "riotId": 427,
+    "titlePt": "o Pai do Verde",
+    "titleEn": "the Green Father",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ivern.png"
+  },
+  {
+    "id": 49,
+    "name": "Janna",
+    "sheetName": "Janna",
+    "riotKey": "Janna",
+    "riotId": 40,
+    "titlePt": "a Fúria da Tormenta",
+    "titleEn": "the Storm's Fury",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Janna.png"
+  },
+  {
+    "id": 50,
+    "name": "Jarvan IV",
+    "sheetName": "Jarvan IV",
+    "riotKey": "JarvanIV",
+    "riotId": 59,
+    "titlePt": "o Exemplo de Demacia",
+    "titleEn": "the Exemplar of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/JarvanIV.png"
+  },
+  {
+    "id": 51,
+    "name": "Jax",
+    "sheetName": "Jax",
+    "riotKey": "Jax",
+    "riotId": 24,
+    "titlePt": "o Grão-Mestre das Armas",
+    "titleEn": "Grandmaster at Arms",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jax.png"
+  },
+  {
+    "id": 52,
+    "name": "Jayce",
+    "sheetName": "Jayce",
+    "riotKey": "Jayce",
+    "riotId": 126,
+    "titlePt": "o Defensor do Amanhã",
+    "titleEn": "the Defender of Tomorrow",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jayce.png"
+  },
+  {
+    "id": 53,
+    "name": "Jhin",
+    "sheetName": "Jhin",
+    "riotKey": "Jhin",
+    "riotId": 202,
+    "titlePt": "o Virtuoso",
+    "titleEn": "the Virtuoso",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jhin.png"
+  },
+  {
+    "id": 54,
+    "name": "Jinx",
+    "sheetName": "Jinx",
+    "riotKey": "Jinx",
+    "riotId": 222,
+    "titlePt": "o Gatilho Desenfreado",
+    "titleEn": "the Loose Cannon",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jinx.png"
+  },
+  {
+    "id": 55,
+    "name": "K'Sante",
+    "sheetName": "K'sante",
+    "riotKey": "KSante",
+    "riotId": 897,
+    "titlePt": "o Orgulho de Nazumah.",
+    "titleEn": "the Pride of Nazumah",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/KSante.png"
+  },
+  {
+    "id": 56,
+    "name": "Kai'Sa",
+    "sheetName": "Kaisa",
+    "riotKey": "Kaisa",
+    "riotId": 145,
+    "titlePt": "a Filha do Vazio",
+    "titleEn": "Daughter of the Void",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kaisa.png"
+  },
+  {
+    "id": 57,
+    "name": "Kalista",
+    "sheetName": "Kalista",
+    "riotKey": "Kalista",
+    "riotId": 429,
+    "titlePt": "a Lança da Vingança",
+    "titleEn": "the Spear of Vengeance",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kalista.png"
+  },
+  {
+    "id": 58,
+    "name": "Karma",
+    "sheetName": "Karma",
+    "riotKey": "Karma",
+    "riotId": 43,
+    "titlePt": "a Iluminada",
+    "titleEn": "the Enlightened One",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Karma.png"
+  },
+  {
+    "id": 59,
+    "name": "Karthus",
+    "sheetName": "Karthus",
+    "riotKey": "Karthus",
+    "riotId": 30,
+    "titlePt": "a Voz Mortal",
+    "titleEn": "the Deathsinger",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Karthus.png"
+  },
+  {
+    "id": 60,
+    "name": "Kassadin",
+    "sheetName": "Kassadin",
+    "riotKey": "Kassadin",
+    "riotId": 38,
+    "titlePt": "o Andarilho do Vazio",
+    "titleEn": "the Void Walker",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kassadin.png"
+  },
+  {
+    "id": 61,
+    "name": "Katarina",
+    "sheetName": "Katarina",
+    "riotKey": "Katarina",
+    "riotId": 55,
+    "titlePt": "a Lâmina Sinistra",
+    "titleEn": "the Sinister Blade",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Katarina.png"
+  },
+  {
+    "id": 62,
+    "name": "Kayle",
+    "sheetName": "Kayle",
+    "riotKey": "Kayle",
+    "riotId": 10,
+    "titlePt": "a Justa",
+    "titleEn": "the Righteous",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kayle.png"
+  },
+  {
+    "id": 63,
+    "name": "Kayn",
+    "sheetName": "Kayn",
+    "riotKey": "Kayn",
+    "riotId": 141,
+    "titlePt": "o Ceifador das Sombras",
+    "titleEn": "the Shadow Reaper",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kayn.png"
+  },
+  {
+    "id": 64,
+    "name": "Kennen",
+    "sheetName": "Kennen",
+    "riotKey": "Kennen",
+    "riotId": 85,
+    "titlePt": "o Coração da Tempestade",
+    "titleEn": "the Heart of the Tempest",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kennen.png"
+  },
+  {
+    "id": 65,
+    "name": "Kha'Zix",
+    "sheetName": "Kha'zix",
+    "riotKey": "Khazix",
+    "riotId": 121,
+    "titlePt": "o Ceifador do Vazio",
+    "titleEn": "the Voidreaver",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Khazix.png"
+  },
+  {
+    "id": 66,
+    "name": "Kindred",
+    "sheetName": "Kindred",
+    "riotKey": "Kindred",
+    "riotId": 203,
+    "titlePt": "os Caçadores Eternos",
+    "titleEn": "The Eternal Hunters",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kindred.png"
+  },
+  {
+    "id": 67,
+    "name": "Kled",
+    "sheetName": "Kled",
+    "riotKey": "Kled",
+    "riotId": 240,
+    "titlePt": "o Cavaleiro Intratável",
+    "titleEn": "the Cantankerous Cavalier",
+    "roles": [
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kled.png"
+  },
+  {
+    "id": 68,
+    "name": "Kog'Maw",
+    "sheetName": "Kog'Maw",
+    "riotKey": "KogMaw",
+    "riotId": 96,
+    "titlePt": "a Boca do Abismo",
+    "titleEn": "the Mouth of the Abyss",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/KogMaw.png"
+  },
+  {
+    "id": 69,
+    "name": "LeBlanc",
+    "sheetName": "LeBlanc",
+    "riotKey": "Leblanc",
+    "riotId": 7,
+    "titlePt": "a Farsante",
+    "titleEn": "the Deceiver",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Leblanc.png"
+  },
+  {
+    "id": 70,
+    "name": "Lee Sin",
+    "sheetName": "Lee Sin",
+    "riotKey": "LeeSin",
+    "riotId": 64,
+    "titlePt": "o Monge Cego",
+    "titleEn": "the Blind Monk",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/LeeSin.png"
+  },
+  {
+    "id": 71,
+    "name": "Leona",
+    "sheetName": "Leona",
+    "riotKey": "Leona",
+    "riotId": 89,
+    "titlePt": "a Alvorada Radiante",
+    "titleEn": "the Radiant Dawn",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Leona.png"
+  },
+  {
+    "id": 72,
+    "name": "Lillia",
+    "sheetName": "Lillah",
+    "riotKey": "Lillia",
+    "riotId": 876,
+    "titlePt": "o Florir Receoso",
+    "titleEn": "the Bashful Bloom",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lillia.png"
+  },
+  {
+    "id": 73,
+    "name": "Lissandra",
+    "sheetName": "Lissandra",
+    "riotKey": "Lissandra",
+    "riotId": 127,
+    "titlePt": "a Bruxa Gélida",
+    "titleEn": "the Ice Witch",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lissandra.png"
+  },
+  {
+    "id": 74,
+    "name": "Lucian",
+    "sheetName": "Lucian",
+    "riotKey": "Lucian",
+    "riotId": 236,
+    "titlePt": "o Purificador",
+    "titleEn": "the Purifier",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lucian.png"
+  },
+  {
+    "id": 75,
+    "name": "Lulu",
+    "sheetName": "Lulu",
+    "riotKey": "Lulu",
+    "riotId": 117,
+    "titlePt": "a Fada Feiticeira",
+    "titleEn": "the Fae Sorceress",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lulu.png"
+  },
+  {
+    "id": 76,
+    "name": "Lux",
+    "sheetName": "Lux",
+    "riotKey": "Lux",
+    "riotId": 99,
+    "titlePt": "a Dama da Luz",
+    "titleEn": "the Lady of Luminosity",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lux.png"
+  },
+  {
+    "id": 77,
+    "name": "Malphite",
+    "sheetName": "Malphite",
+    "riotKey": "Malphite",
+    "riotId": 54,
+    "titlePt": "o Fragmento do Monolito",
+    "titleEn": "Shard of the Monolith",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Malphite.png"
+  },
+  {
+    "id": 78,
+    "name": "Malzahar",
+    "sheetName": "Malzahar",
+    "riotKey": "Malzahar",
+    "riotId": 90,
+    "titlePt": "o Profeta do Vazio",
+    "titleEn": "the Prophet of the Void",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Malzahar.png"
+  },
+  {
+    "id": 79,
+    "name": "Maokai",
+    "sheetName": "Maokai",
+    "riotKey": "Maokai",
+    "riotId": 57,
+    "titlePt": "o Ente Sinistro",
+    "titleEn": "the Twisted Treant",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Maokai.png"
+  },
+  {
+    "id": 80,
+    "name": "Master Yi",
+    "sheetName": "Master Yi",
+    "riotKey": "MasterYi",
+    "riotId": 11,
+    "titlePt": "o Espadachim Wuju",
+    "titleEn": "the Wuju Bladesman",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MasterYi.png"
+  },
+  {
+    "id": 81,
+    "name": "Mel",
+    "sheetName": "Mel",
+    "riotKey": "Mel",
+    "riotId": 800,
+    "titlePt": "o Reflexo da Alma",
+    "titleEn": "the Soul's Reflection",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Mel.png"
+  },
+  {
+    "id": 82,
+    "name": "Milio",
+    "sheetName": "Millio",
+    "riotKey": "Milio",
+    "riotId": 902,
+    "titlePt": "A Chama Gentil",
+    "titleEn": "The Gentle Flame",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Milio.png"
+  },
+  {
+    "id": 83,
+    "name": "Miss Fortune",
+    "sheetName": "Miss Fortune",
+    "riotKey": "MissFortune",
+    "riotId": 21,
+    "titlePt": "a Caçadora de Recompensas",
+    "titleEn": "the Bounty Hunter",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MissFortune.png"
+  },
+  {
+    "id": 84,
+    "name": "Mordekaiser",
+    "sheetName": "Mordekaiser",
+    "riotKey": "Mordekaiser",
+    "riotId": 82,
+    "titlePt": "o Revenã de Ferro",
+    "titleEn": "the Iron Revenant",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Mordekaiser.png"
+  },
+  {
+    "id": 85,
+    "name": "Morgana",
+    "sheetName": "Morgana",
+    "riotKey": "Morgana",
+    "riotId": 25,
+    "titlePt": "a Caída",
+    "titleEn": "the Fallen",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Morgana.png"
+  },
+  {
+    "id": 86,
+    "name": "Naafiri",
+    "sheetName": "Naafiri",
+    "riotKey": "Naafiri",
+    "riotId": 950,
+    "titlePt": "Fera das Cem Mordidas",
+    "titleEn": "the Hound of a Hundred Bites",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Naafiri.png"
+  },
+  {
+    "id": 87,
+    "name": "Nami",
+    "sheetName": "Nami",
+    "riotKey": "Nami",
+    "riotId": 267,
+    "titlePt": "a Conjuradora das Marés",
+    "titleEn": "the Tidecaller",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nami.png"
+  },
+  {
+    "id": 88,
+    "name": "Nasus",
+    "sheetName": "Nasus",
+    "riotKey": "Nasus",
+    "riotId": 75,
+    "titlePt": "o Curador das Areias",
+    "titleEn": "the Curator of the Sands",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nasus.png"
+  },
+  {
+    "id": 89,
+    "name": "Nautilus",
+    "sheetName": "Nautilus",
+    "riotKey": "Nautilus",
+    "riotId": 111,
+    "titlePt": "o Titã das Profundezas",
+    "titleEn": "the Titan of the Depths",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nautilus.png"
+  },
+  {
+    "id": 90,
+    "name": "Neeko",
+    "sheetName": "Neeko",
+    "riotKey": "Neeko",
+    "riotId": 518,
+    "titlePt": "a Camaleoa Curiosa",
+    "titleEn": "the Curious Chameleon",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Neeko.png"
+  },
+  {
+    "id": 91,
+    "name": "Nidalee",
+    "sheetName": "Nidalee",
+    "riotKey": "Nidalee",
+    "riotId": 76,
+    "titlePt": "a Caçadora Bestial",
+    "titleEn": "the Bestial Huntress",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nidalee.png"
+  },
+  {
+    "id": 92,
+    "name": "Nilah",
+    "sheetName": "Nillah",
+    "riotKey": "Nilah",
+    "riotId": 895,
+    "titlePt": "a Alegria Irrestrita",
+    "titleEn": "the Joy Unbound",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nilah.png"
+  },
+  {
+    "id": 93,
+    "name": "Nocturne",
+    "sheetName": "Nocturne",
+    "riotKey": "Nocturne",
+    "riotId": 56,
+    "titlePt": "o Eterno Pesadelo",
+    "titleEn": "the Eternal Nightmare",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nocturne.png"
+  },
+  {
+    "id": 94,
+    "name": "Nunu & Willump",
+    "sheetName": "Nunu",
+    "riotKey": "Nunu",
+    "riotId": 20,
+    "titlePt": "o Garoto e seu Yeti",
+    "titleEn": "the Boy and His Yeti",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nunu.png"
+  },
+  {
+    "id": 95,
+    "name": "Olaf",
+    "sheetName": "Olaf",
+    "riotKey": "Olaf",
+    "riotId": 2,
+    "titlePt": "o Berserker",
+    "titleEn": "the Berserker",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Olaf.png"
+  },
+  {
+    "id": 96,
+    "name": "Orianna",
+    "sheetName": "Orianna",
+    "riotKey": "Orianna",
+    "riotId": 61,
+    "titlePt": "a Donzela Mecânica",
+    "titleEn": "the Lady of Clockwork",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Orianna.png"
+  },
+  {
+    "id": 97,
+    "name": "Ornn",
+    "sheetName": "Ornn",
+    "riotKey": "Ornn",
+    "riotId": 516,
+    "titlePt": "O Fogo sob a Montanha",
+    "titleEn": "The Fire below the Mountain",
+    "roles": [
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ornn.png"
+  },
+  {
+    "id": 98,
+    "name": "Pantheon",
+    "sheetName": "Pantheon",
+    "riotKey": "Pantheon",
+    "riotId": 80,
+    "titlePt": "a Lança Indestrutível",
+    "titleEn": "the Unbreakable Spear",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Pantheon.png"
+  },
+  {
+    "id": 99,
+    "name": "Poppy",
+    "sheetName": "Poppy",
+    "riotKey": "Poppy",
+    "riotId": 78,
+    "titlePt": "a Guardiã do Martelo",
+    "titleEn": "Keeper of the Hammer",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Poppy.png"
+  },
+  {
+    "id": 100,
+    "name": "Pyke",
+    "sheetName": "Pyke",
+    "riotKey": "Pyke",
+    "riotId": 555,
+    "titlePt": "o Estripador das Águas Sangrentas",
+    "titleEn": "the Bloodharbor Ripper",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Pyke.png"
+  },
+  {
+    "id": 101,
+    "name": "Qiyana",
+    "sheetName": "Qiyana",
+    "riotKey": "Qiyana",
+    "riotId": 246,
+    "titlePt": "a Imperatriz dos Elementos",
+    "titleEn": "Empress of the Elements",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Qiyana.png"
+  },
+  {
+    "id": 102,
+    "name": "Quinn",
+    "sheetName": "Quinn",
+    "riotKey": "Quinn",
+    "riotId": 133,
+    "titlePt": "as Asas de Demacia",
+    "titleEn": "Demacia's Wings",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Quinn.png"
+  },
+  {
+    "id": 103,
+    "name": "Rakan",
+    "sheetName": "Rakan",
+    "riotKey": "Rakan",
+    "riotId": 497,
+    "titlePt": "O Charmoso",
+    "titleEn": "The Charmer",
+    "roles": [
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rakan.png"
+  },
+  {
+    "id": 104,
+    "name": "Rammus",
+    "sheetName": "Rammus",
+    "riotKey": "Rammus",
+    "riotId": 33,
+    "titlePt": "o Tatu Blindado",
+    "titleEn": "the Armordillo",
+    "roles": [
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rammus.png"
+  },
+  {
+    "id": 105,
+    "name": "Rek'Sai",
+    "sheetName": "Rek'Sai",
+    "riotKey": "RekSai",
+    "riotId": 421,
+    "titlePt": "a Escavadora do Vazio",
+    "titleEn": "the Void Burrower",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/RekSai.png"
+  },
+  {
+    "id": 106,
+    "name": "Rell",
+    "sheetName": "Rell",
+    "riotKey": "Rell",
+    "riotId": 526,
+    "titlePt": "a Dama de Ferro",
+    "titleEn": "the Iron Maiden",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rell.png"
+  },
+  {
+    "id": 107,
+    "name": "Renata Glasc",
+    "sheetName": "Renata",
+    "riotKey": "Renata",
+    "riotId": 888,
+    "titlePt": "a Baronesa da Química",
+    "titleEn": "the Chem-Baroness",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Renata.png"
+  },
+  {
+    "id": 108,
+    "name": "Rengar",
+    "sheetName": "Rengar",
+    "riotKey": "Rengar",
+    "riotId": 107,
+    "titlePt": "o Acossador da Alcateia",
+    "titleEn": "the Pridestalker",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rengar.png"
+  },
+  {
+    "id": 109,
+    "name": "Riven",
+    "sheetName": "Riven",
+    "riotKey": "Riven",
+    "riotId": 92,
+    "titlePt": "a Exilada",
+    "titleEn": "the Exile",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Riven.png"
+  },
+  {
+    "id": 110,
+    "name": "Rumble",
+    "sheetName": "Rumble",
+    "riotKey": "Rumble",
+    "riotId": 68,
+    "titlePt": "a Ameaça Mecânica",
+    "titleEn": "the Mechanized Menace",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rumble.png"
+  },
+  {
+    "id": 111,
+    "name": "Ryze",
+    "sheetName": "Ryze",
+    "riotKey": "Ryze",
+    "riotId": 13,
+    "titlePt": "o Mago Rúnico",
+    "titleEn": "the Rune Mage",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ryze.png"
+  },
+  {
+    "id": 112,
+    "name": "Samira",
+    "sheetName": "Samira",
+    "riotKey": "Samira",
+    "riotId": 360,
+    "titlePt": "a Rosa do Deserto",
+    "titleEn": "the Desert Rose",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Samira.png"
+  },
+  {
+    "id": 113,
+    "name": "Sejuani",
+    "sheetName": "Sejuani",
+    "riotKey": "Sejuani",
+    "riotId": 113,
+    "titlePt": "a Fúria do Norte",
+    "titleEn": "Fury of the North",
+    "roles": [
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sejuani.png"
+  },
+  {
+    "id": 114,
+    "name": "Senna",
+    "sheetName": "Senna",
+    "riotKey": "Senna",
+    "riotId": 235,
+    "titlePt": "A Redentora",
+    "titleEn": "the Redeemer",
+    "roles": [
+      "Support",
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Senna.png"
+  },
+  {
+    "id": 115,
+    "name": "Seraphine",
+    "sheetName": "Seraphine",
+    "riotKey": "Seraphine",
+    "riotId": 147,
+    "titlePt": "a Cantora Sonhadora",
+    "titleEn": "the Starry-Eyed Songstress",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Seraphine.png"
+  },
+  {
+    "id": 116,
+    "name": "Sett",
+    "sheetName": "Sett",
+    "riotKey": "Sett",
+    "riotId": 875,
+    "titlePt": "o Chefe",
+    "titleEn": "the Boss",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sett.png"
+  },
+  {
+    "id": 117,
+    "name": "Shaco",
+    "sheetName": "Shaco",
+    "riotKey": "Shaco",
+    "riotId": 35,
+    "titlePt": "o Bufão Demoníaco",
+    "titleEn": "the Demon Jester",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shaco.png"
+  },
+  {
+    "id": 118,
+    "name": "Shen",
+    "sheetName": "Shen",
+    "riotKey": "Shen",
+    "riotId": 98,
+    "titlePt": "o Olho do Crepúsculo",
+    "titleEn": "the Eye of Twilight",
+    "roles": [
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shen.png"
+  },
+  {
+    "id": 119,
+    "name": "Shyvana",
+    "sheetName": "Shyvana",
+    "riotKey": "Shyvana",
+    "riotId": 102,
+    "titlePt": "a Meio-Dragão",
+    "titleEn": "the Half-Dragon",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shyvana.png"
+  },
+  {
+    "id": 120,
+    "name": "Singed",
+    "sheetName": "Singed",
+    "riotKey": "Singed",
+    "riotId": 27,
+    "titlePt": "o Químico Louco",
+    "titleEn": "the Mad Chemist",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Singed.png"
+  },
+  {
+    "id": 121,
+    "name": "Sion",
+    "sheetName": "Sion",
+    "riotKey": "Sion",
+    "riotId": 14,
+    "titlePt": "o Colosso Morto-Vivo",
+    "titleEn": "The Undead Juggernaut",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sion.png"
+  },
+  {
+    "id": 122,
+    "name": "Sivir",
+    "sheetName": "Sivir",
+    "riotKey": "Sivir",
+    "riotId": 15,
+    "titlePt": "a Mestra da Batalha",
+    "titleEn": "the Battle Mistress",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sivir.png"
+  },
+  {
+    "id": 123,
+    "name": "Skarner",
+    "sheetName": "Skarner",
+    "riotKey": "Skarner",
+    "riotId": 72,
+    "titlePt": "o Soberano Primordial",
+    "titleEn": "the Primordial Sovereign",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Skarner.png"
+  },
+  {
+    "id": 124,
+    "name": "Smolder",
+    "sheetName": "Smolder",
+    "riotKey": "Smolder",
+    "riotId": 901,
+    "titlePt": "o Filhote Flamejante",
+    "titleEn": "the Fiery Fledgling",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Smolder.png"
+  },
+  {
+    "id": 125,
+    "name": "Sona",
+    "sheetName": "Sona",
+    "riotKey": "Sona",
+    "riotId": 37,
+    "titlePt": "a Mestra das Cordas",
+    "titleEn": "Maven of the Strings",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sona.png"
+  },
+  {
+    "id": 126,
+    "name": "Soraka",
+    "sheetName": "Soraka",
+    "riotKey": "Soraka",
+    "riotId": 16,
+    "titlePt": "a Filha das Estrelas",
+    "titleEn": "the Starchild",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Soraka.png"
+  },
+  {
+    "id": 127,
+    "name": "Swain",
+    "sheetName": "Swain",
+    "riotKey": "Swain",
+    "riotId": 50,
+    "titlePt": "o Grande General Noxiano",
+    "titleEn": "the Noxian Grand General",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Swain.png"
+  },
+  {
+    "id": 128,
+    "name": "Sylas",
+    "sheetName": "Sylas",
+    "riotKey": "Sylas",
+    "riotId": 517,
+    "titlePt": "o Abjugado",
+    "titleEn": "the Unshackled",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sylas.png"
+  },
+  {
+    "id": 129,
+    "name": "Syndra",
+    "sheetName": "Syndra",
+    "riotKey": "Syndra",
+    "riotId": 134,
+    "titlePt": "a Soberana Sombria",
+    "titleEn": "the Dark Sovereign",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Syndra.png"
+  },
+  {
+    "id": 130,
+    "name": "Tahm Kench",
+    "sheetName": "Tahm Kench",
+    "riotKey": "TahmKench",
+    "riotId": 223,
+    "titlePt": "o Rei do Rio",
+    "titleEn": "The River King",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/TahmKench.png"
+  },
+  {
+    "id": 131,
+    "name": "Taliyah",
+    "sheetName": "Taliyah",
+    "riotKey": "Taliyah",
+    "riotId": 163,
+    "titlePt": "a Tecelã de Pedras",
+    "titleEn": "the Stoneweaver",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Taliyah.png"
+  },
+  {
+    "id": 132,
+    "name": "Talon",
+    "sheetName": "Talon",
+    "riotKey": "Talon",
+    "riotId": 91,
+    "titlePt": "a Sombra da Lâmina",
+    "titleEn": "the Blade's Shadow",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Talon.png"
+  },
+  {
+    "id": 133,
+    "name": "Taric",
+    "sheetName": "Taric",
+    "riotKey": "Taric",
+    "riotId": 44,
+    "titlePt": "o Escudo de Valoran",
+    "titleEn": "the Shield of Valoran",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Taric.png"
+  },
+  {
+    "id": 134,
+    "name": "Teemo",
+    "sheetName": "Teemo",
+    "riotKey": "Teemo",
+    "riotId": 17,
+    "titlePt": "o Explorador Veloz",
+    "titleEn": "the Swift Scout",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Teemo.png"
+  },
+  {
+    "id": 135,
+    "name": "Thresh",
+    "sheetName": "Thresh",
+    "riotKey": "Thresh",
+    "riotId": 412,
+    "titlePt": "o Guardião das Correntes",
+    "titleEn": "the Chain Warden",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Thresh.png"
+  },
+  {
+    "id": 136,
+    "name": "Tristana",
+    "sheetName": "Tristana",
+    "riotKey": "Tristana",
+    "riotId": 18,
+    "titlePt": "a Artilheira Yordle",
+    "titleEn": "the Yordle Gunner",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Tristana.png"
+  },
+  {
+    "id": 137,
+    "name": "Trundle",
+    "sheetName": "Trundle",
+    "riotKey": "Trundle",
+    "riotId": 48,
+    "titlePt": "o Rei dos Trolls",
+    "titleEn": "the Troll King",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Trundle.png"
+  },
+  {
+    "id": 138,
+    "name": "Tryndamere",
+    "sheetName": "Tryndamere",
+    "riotKey": "Tryndamere",
+    "riotId": 23,
+    "titlePt": "o Rei Bárbaro",
+    "titleEn": "the Barbarian King",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Tryndamere.png"
+  },
+  {
+    "id": 139,
+    "name": "Twisted Fate",
+    "sheetName": "Twisted Fate",
+    "riotKey": "TwistedFate",
+    "riotId": 4,
+    "titlePt": "o Mestre das Cartas",
+    "titleEn": "the Card Master",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/TwistedFate.png"
+  },
+  {
+    "id": 140,
+    "name": "Twitch",
+    "sheetName": "Twitch",
+    "riotKey": "Twitch",
+    "riotId": 29,
+    "titlePt": "o Semeador da Peste",
+    "titleEn": "the Plague Rat",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Twitch.png"
+  },
+  {
+    "id": 141,
+    "name": "Udyr",
+    "sheetName": "Udyr",
+    "riotKey": "Udyr",
+    "riotId": 77,
+    "titlePt": "o Andarilho Espiritual",
+    "titleEn": "the Spirit Walker",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Udyr.png"
+  },
+  {
+    "id": 142,
+    "name": "Urgot",
+    "sheetName": "Urgot",
+    "riotKey": "Urgot",
+    "riotId": 6,
+    "titlePt": "o Encouraçado",
+    "titleEn": "the Dreadnought",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Urgot.png"
+  },
+  {
+    "id": 143,
+    "name": "Varus",
+    "sheetName": "Varus",
+    "riotKey": "Varus",
+    "riotId": 110,
+    "titlePt": "a Flecha da Vingança",
+    "titleEn": "the Arrow of Retribution",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Varus.png"
+  },
+  {
+    "id": 144,
+    "name": "Vayne",
+    "sheetName": "Vayne",
+    "riotKey": "Vayne",
+    "riotId": 67,
+    "titlePt": "a Caçadora Noturna",
+    "titleEn": "the Night Hunter",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vayne.png"
+  },
+  {
+    "id": 145,
+    "name": "Veigar",
+    "sheetName": "Veigar",
+    "riotKey": "Veigar",
+    "riotId": 45,
+    "titlePt": "o Pequeno Mestre do Mal",
+    "titleEn": "the Tiny Master of Evil",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Veigar.png"
+  },
+  {
+    "id": 146,
+    "name": "Vel'Koz",
+    "sheetName": "Vel'Koz",
+    "riotKey": "Velkoz",
+    "riotId": 161,
+    "titlePt": "o Olho do Vazio",
+    "titleEn": "the Eye of the Void",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Velkoz.png"
+  },
+  {
+    "id": 147,
+    "name": "Vex",
+    "sheetName": "Vex",
+    "riotKey": "Vex",
+    "riotId": 711,
+    "titlePt": "a Melancolista",
+    "titleEn": "the Gloomist",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vex.png"
+  },
+  {
+    "id": 148,
+    "name": "Vi",
+    "sheetName": "Vi",
+    "riotKey": "Vi",
+    "riotId": 254,
+    "titlePt": "a Defensora de Piltover",
+    "titleEn": "the Piltover Enforcer",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vi.png"
+  },
+  {
+    "id": 149,
+    "name": "Viego",
+    "sheetName": "Viego",
+    "riotKey": "Viego",
+    "riotId": 234,
+    "titlePt": "O Rei Destruído",
+    "titleEn": "The Ruined King",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Viego.png"
+  },
+  {
+    "id": 150,
+    "name": "Viktor",
+    "sheetName": "Viktor",
+    "riotKey": "Viktor",
+    "riotId": 112,
+    "titlePt": "o Arauto do Arcano",
+    "titleEn": "the Herald of the Arcane",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Viktor.png"
+  },
+  {
+    "id": 151,
+    "name": "Vladimir",
+    "sheetName": "Vladimir",
+    "riotKey": "Vladimir",
+    "riotId": 8,
+    "titlePt": "o Sanguinário Escarlate",
+    "titleEn": "the Crimson Reaper",
+    "roles": [
+      "Mage",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vladimir.png"
+  },
+  {
+    "id": 152,
+    "name": "Volibear",
+    "sheetName": "Volibear",
+    "riotKey": "Volibear",
+    "riotId": 106,
+    "titlePt": "a Tempestade Implacável",
+    "titleEn": "the Relentless Storm",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Volibear.png"
+  },
+  {
+    "id": 153,
+    "name": "Warwick",
+    "sheetName": "Warwick",
+    "riotKey": "Warwick",
+    "riotId": 19,
+    "titlePt": "a Ira Desimpedida de Zaun",
+    "titleEn": "the Uncaged Wrath of Zaun",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Warwick.png"
+  },
+  {
+    "id": 154,
+    "name": "Wukong",
+    "sheetName": "Wukong",
+    "riotKey": "MonkeyKing",
+    "riotId": 62,
+    "titlePt": "o Macaco Rei",
+    "titleEn": "the Monkey King",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MonkeyKing.png"
+  },
+  {
+    "id": 155,
+    "name": "Xayah",
+    "sheetName": "Xayah",
+    "riotKey": "Xayah",
+    "riotId": 498,
+    "titlePt": "a Rebelde",
+    "titleEn": "the Rebel",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Xayah.png"
+  },
+  {
+    "id": 156,
+    "name": "Xerath",
+    "sheetName": "Xerath",
+    "riotKey": "Xerath",
+    "riotId": 101,
+    "titlePt": "o Mago Ascendente",
+    "titleEn": "the Magus Ascendant",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Xerath.png"
+  },
+  {
+    "id": 157,
+    "name": "Xin Zhao",
+    "sheetName": "Xin Zhao",
+    "riotKey": "XinZhao",
+    "riotId": 5,
+    "titlePt": "o Senescal de Demacia",
+    "titleEn": "the Seneschal of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/XinZhao.png"
+  },
+  {
+    "id": 158,
+    "name": "Yasuo",
+    "sheetName": "Yasuo",
+    "riotKey": "Yasuo",
+    "riotId": 157,
+    "titlePt": "o Imperdoável",
+    "titleEn": "the Unforgiven",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yasuo.png"
+  },
+  {
+    "id": 159,
+    "name": "Yone",
+    "sheetName": "Yone",
+    "riotKey": "Yone",
+    "riotId": 777,
+    "titlePt": "o Inesquecido",
+    "titleEn": "the Unforgotten",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yone.png"
+  },
+  {
+    "id": 160,
+    "name": "Yorick",
+    "sheetName": "Yorick",
+    "riotKey": "Yorick",
+    "riotId": 83,
+    "titlePt": "o Pastor de Almas",
+    "titleEn": "Shepherd of Souls",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yorick.png"
+  },
+  {
+    "id": 161,
+    "name": "Yunara",
+    "sheetName": "Yunara",
+    "riotKey": "Yunara",
+    "riotId": 804,
+    "titlePt": "a Fé Inabalável",
+    "titleEn": "the Unbroken Faith",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yunara.png"
+  },
+  {
+    "id": 162,
+    "name": "Yuumi",
+    "sheetName": "Yuumi",
+    "riotKey": "Yuumi",
+    "riotId": 350,
+    "titlePt": "a Gata Mágica",
+    "titleEn": "the Magical Cat",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yuumi.png"
+  },
+  {
+    "id": 163,
+    "name": "Zaahen",
+    "sheetName": "Zaahen",
+    "riotKey": "Zaahen",
+    "riotId": 904,
+    "titlePt": "O Indissociável",
+    "titleEn": "The Unsundered",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zaahen.png"
+  },
+  {
+    "id": 164,
+    "name": "Zac",
+    "sheetName": "Zac",
+    "riotKey": "Zac",
+    "riotId": 154,
+    "titlePt": "a Arma Secreta",
+    "titleEn": "the Secret Weapon",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zac.png"
+  },
+  {
+    "id": 165,
+    "name": "Zed",
+    "sheetName": "Zed",
+    "riotKey": "Zed",
+    "riotId": 238,
+    "titlePt": "o Mestre das Sombras",
+    "titleEn": "the Master of Shadows",
+    "roles": [
+      "Assassin"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zed.png"
+  },
+  {
+    "id": 166,
+    "name": "Zeri",
+    "sheetName": "Zeri",
+    "riotKey": "Zeri",
+    "riotId": 221,
+    "titlePt": "A Faísca de Zaun",
+    "titleEn": "The Spark of Zaun",
+    "roles": [
+      "Marksman"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zeri.png"
+  },
+  {
+    "id": 167,
+    "name": "Ziggs",
+    "sheetName": "Ziggs",
+    "riotKey": "Ziggs",
+    "riotId": 115,
+    "titlePt": "o Especialista em Hexplosivos",
+    "titleEn": "the Hexplosives Expert",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ziggs.png"
+  },
+  {
+    "id": 168,
+    "name": "Zilean",
+    "sheetName": "Zilean",
+    "riotKey": "Zilean",
+    "riotId": 26,
+    "titlePt": "o Guardião do Tempo",
+    "titleEn": "the Chronokeeper",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zilean.png"
+  },
+  {
+    "id": 169,
+    "name": "Zoe",
+    "sheetName": "Zoe",
+    "riotKey": "Zoe",
+    "riotId": 142,
+    "titlePt": "o Aspecto do Crepúsculo",
+    "titleEn": "the Aspect of Twilight",
+    "roles": [
+      "Mage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zoe.png"
+  },
+  {
+    "id": 170,
+    "name": "Zyra",
+    "sheetName": "Zyra",
+    "riotKey": "Zyra",
+    "riotId": 143,
+    "titlePt": "a Ascensão dos Espinhos",
+    "titleEn": "Rise of the Thorns",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zyra.png"
+  }
+]

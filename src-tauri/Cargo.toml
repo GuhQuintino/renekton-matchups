@@ -1,0 +1,21 @@
+[package]
+name = "champion-matchup"
+version = "1.0.0"
+description = "Renekton Champion Matchup Desktop Tool"
+authors = ["Champion Matchup Team"]
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "2.0.0", features = [] }
+
+[dependencies]
+tauri = { version = "2.0.0", features = [] }
+tauri-plugin-shell = "2.0.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rusqlite = { version = "0.31", features = ["bundled"] }
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json", "rustls-tls"] }
+once_cell = "1.19"
+base64 = "0.22"
+regex = "1.10"

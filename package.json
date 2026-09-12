@@ -1,0 +1,55 @@
+{
+  "name": "champion-matchup",
+  "version": "1.0.0",
+  "description": "Renekton Champion Matchup Desktop Tool (Tauri v2 + React + TypeScript + SQLite)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "tauri": "tauri",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build",
+    "rebuild": "powershell -ExecutionPolicy Bypass -File scripts/rebuild_and_package.ps1",
+    "package": "powershell -ExecutionPolicy Bypass -File scripts/rebuild_and_package.ps1",
+    "test": "node tests/runner.js",
+    "test:tier1": "node tests/runner.js --tier 1",
+    "test:tier2": "node tests/runner.js --tier 2",
+    "test:tier3": "node tests/runner.js --tier 3",
+    "test:tier4": "node tests/runner.js --tier 4",
+    "test:summary": "node tests/runner.js --summary"
+  },
+  "dependencies": {
+    "@tanstack/react-virtual": "^3.10.8",
+    "@tauri-apps/api": "^2.0.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.460.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.11.4",
+    "@types/node": "^22.9.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  },
+  "keywords": [
+    "renekton",
+    "league-of-legends",
+    "matchup",
+    "tauri",
+    "react",
+    "sqlite"
+  ],
+  "author": "Champion Matchup Team",
+  "license": "MIT"
+}

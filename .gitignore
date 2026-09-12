@@ -1,0 +1,67 @@
+# =============================================================================
+# Renekton Matchups Desktop Tool - Git Ignore Rules
+# =============================================================================
+
+# Node & Dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Rust & Tauri Builds
+src-tauri/target/
+target/
+*.pdb
+
+# Local Database Files (generated on startup by schema.sql & seed.sql)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+src-tauri/src/db/champion_matchup.db
+
+# Executables & Installers (Distribute via GitHub Releases)
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.deb
+Instalador-Renekton-Matchups.exe
+Renekton-Matchups.exe
+
+# QA, Browser Automation & Temporary Profiles
+.browser-profile/
+.temp-browser-qa/
+.temp-browser-qa2/
+.qatest/
+coverage/
+*.log
+
+# Internal Agent & Planning Workspaces (keep repo clean for public release)
+.agents/
+.planning/
+
+# Environment & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

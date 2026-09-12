@@ -1,0 +1,3248 @@
+{
+  "Aphelios": {
+    "championId": 10,
+    "championName": "Aphelios",
+    "riotId": 523,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 3,
+      "renektonWinRate": 33.33,
+      "enemyWinRate": 66.67
+    }
+  },
+  "Ahri": {
+    "championId": 2,
+    "championName": "Ahri",
+    "riotId": 103,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 31,
+      "renektonWinRate": 41.94,
+      "enemyWinRate": 58.06
+    }
+  },
+  "Anivia": {
+    "championId": 8,
+    "championName": "Anivia",
+    "riotId": 34,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 136,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Akshan": {
+    "championId": 4,
+    "championName": "Akshan",
+    "riotId": 166,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 20,
+      "renektonWinRate": 70,
+      "enemyWinRate": 30
+    }
+  },
+  "Aurelion Sol": {
+    "championId": 12,
+    "championName": "Aurelion Sol",
+    "riotId": 136,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 24,
+      "renektonWinRate": 45.83,
+      "enemyWinRate": 54.17
+    }
+  },
+  "Alistar": {
+    "championId": 5,
+    "championName": "Alistar",
+    "riotId": 12,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 22,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Amumu": {
+    "championId": 7,
+    "championName": "Amumu",
+    "riotId": 32,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 5,
+      "renektonWinRate": 40,
+      "enemyWinRate": 60
+    }
+  },
+  "Annie": {
+    "championId": 9,
+    "championName": "Annie",
+    "riotId": 1,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 9,
+      "renektonWinRate": 55.56,
+      "enemyWinRate": 44.44
+    }
+  },
+  "Ashe": {
+    "championId": 11,
+    "championName": "Ashe",
+    "riotId": 22,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 15,
+      "renektonWinRate": 73.33,
+      "enemyWinRate": 26.67
+    }
+  },
+  "Bard": {
+    "championId": 15,
+    "championName": "Bard",
+    "riotId": 432,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Azir": {
+    "championId": 14,
+    "championName": "Azir",
+    "riotId": 268,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 15,
+      "renektonWinRate": 66.67,
+      "enemyWinRate": 33.33
+    }
+  },
+  "Blitzcrank": {
+    "championId": 17,
+    "championName": "Blitzcrank",
+    "riotId": 53,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Bel'Veth": {
+    "championId": 16,
+    "championName": "Bel'Veth",
+    "riotId": 200,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 50,
+      "renektonWinRate": 62,
+      "enemyWinRate": 38
+    }
+  },
+  "Caitlyn": {
+    "championId": 21,
+    "championName": "Caitlyn",
+    "riotId": 51,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 4,
+      "renektonWinRate": 25,
+      "enemyWinRate": 75
+    }
+  },
+  "Brand": {
+    "championId": 18,
+    "championName": "Brand",
+    "riotId": 63,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 11,
+      "renektonWinRate": 18.18,
+      "enemyWinRate": 81.82
+    }
+  },
+  "Cassiopeia": {
+    "championId": 23,
+    "championName": "Cassiopeia",
+    "riotId": 69,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 72,
+      "renektonWinRate": 51.39,
+      "enemyWinRate": 48.61
+    }
+  },
+  "Cho'Gath": {
+    "championId": 24,
+    "championName": "Cho'Gath",
+    "riotId": 31,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 145,
+      "renektonWinRate": 45.52,
+      "enemyWinRate": 54.48
+    }
+  },
+  "Briar": {
+    "championId": 20,
+    "championName": "Briar",
+    "riotId": 233,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 23,
+      "renektonWinRate": 60.87,
+      "enemyWinRate": 39.13
+    }
+  },
+  "Braum": {
+    "championId": 19,
+    "championName": "Braum",
+    "riotId": 201,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Corki": {
+    "championId": 25,
+    "championName": "Corki",
+    "riotId": 42,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 52,
+      "renektonWinRate": 44.23,
+      "enemyWinRate": 55.77
+    }
+  },
+  "Diana": {
+    "championId": 27,
+    "championName": "Diana",
+    "riotId": 131,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 24,
+      "renektonWinRate": 75,
+      "enemyWinRate": 25
+    }
+  },
+  "Draven": {
+    "championId": 29,
+    "championName": "Draven",
+    "riotId": 119,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 21,
+      "renektonWinRate": 14.29,
+      "enemyWinRate": 85.71000000000001
+    }
+  },
+  "Ezreal": {
+    "championId": 33,
+    "championName": "Ezreal",
+    "riotId": 81,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 16,
+      "renektonWinRate": 62.5,
+      "enemyWinRate": 37.5
+    }
+  },
+  "Ekko": {
+    "championId": 30,
+    "championName": "Ekko",
+    "riotId": 245,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 24,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Elise": {
+    "championId": 31,
+    "championName": "Elise",
+    "riotId": 60,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 7,
+      "renektonWinRate": 57.14,
+      "enemyWinRate": 42.86
+    }
+  },
+  "Evelynn": {
+    "championId": 32,
+    "championName": "Evelynn",
+    "riotId": 28,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Fiddlesticks": {
+    "championId": 34,
+    "championName": "Fiddlesticks",
+    "riotId": 9,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 42,
+      "renektonWinRate": 59.52,
+      "enemyWinRate": 40.48
+    }
+  },
+  "Fizz": {
+    "championId": 36,
+    "championName": "Fizz",
+    "riotId": 105,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 14,
+      "renektonWinRate": 28.57,
+      "enemyWinRate": 71.43
+    }
+  },
+  "Galio": {
+    "championId": 37,
+    "championName": "Galio",
+    "riotId": 3,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 40,
+      "renektonWinRate": 40,
+      "enemyWinRate": 60
+    }
+  },
+  "Hecarim": {
+    "championId": 43,
+    "championName": "Hecarim",
+    "riotId": 120,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Hwei": {
+    "championId": 45,
+    "championName": "Hwei",
+    "riotId": 910,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 9,
+      "renektonWinRate": 33.33,
+      "enemyWinRate": 66.67
+    }
+  },
+  "Aatrox": {
+    "championId": 1,
+    "championName": "Aatrox",
+    "riotId": 266,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Dodging Aatrox's Q Skill",
+        "titlePt": "Desviando do Q do Aatrox",
+        "contentEn": "Aatrox's Q skill deals bonus damage and knocks up enemies hit by the edge. It's crucial to use your E skill to either dash inside Aatrox's Q range or dodge to the side.",
+        "contentPt": "O Q de Aatrox causa dano bônus e knockup nas bordas (sweet spots). É crucial usar seu E (Slice and Dice) para dar dash para dentro do alcance do Q ou esquivar lateralmente."
+      },
+      {
+        "titleEn": "Disabling Aatrox with Empowered W",
+        "titlePt": "Anulando Aatrox com W Fortalecido",
+        "contentEn": "Aatrox maximizes his healing by adjusting his position with E while casting Q. Renekton's empowered W (Ruthless Predator) has a shield break effect, allowing you to nullify Aatrox's healing and gain an advantage in trades.",
+        "contentPt": "Aatrox maximiza a cura ajustando sua posição com o E durante a conjuração do Q. O W Fortalecido de Renekton (Predador Implacável) destrói escudos e causa dano massivo, permitindo anular trocas e vencer o duelo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 1619,
+      "renektonWinRate": 49.78,
+      "enemyWinRate": 50.22
+    }
+  },
+  "Akali": {
+    "championId": 3,
+    "championName": "Akali",
+    "riotId": 84,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Leverage Early Game Power",
+        "titlePt": "Aproveitar a Força no Early Game",
+        "contentEn": "Renekton is strong early while Akali is weak. Use Q and W for aggressive trades in levels 1-3 to pressure Akali's health and gain lane priority.",
+        "contentPt": "Renekton é dominante no início do jogo, enquanto Akali é frágil. Utilize Q e W para trocas agressivas nos níveis 1 a 3 para pressionar a vida da Akali e ditar a prioridade da rota."
+      },
+      {
+        "titleEn": "Neutralize Akali with Your Ultimate",
+        "titlePt": "Neutralizar a Akali com Dominus (R)",
+        "contentEn": "When Akali uses W (Twilight Shroud), activate R (Dominus) for bonus health and area-of-effect magic damage. This makes it easier to chase Akali within her shroud and set up a lethal kill window.",
+        "contentPt": "Quando Akali usar a Proteção do Crepúsculo (W), ative sua Ultimate Dominus (R) para ganhar vida máxima adicional e causar dano mágico contínuo em área, facilitando persegui-la e finalizar o abate dentro da fumaça."
+      }
+    ],
+    "stats": {
+      "sampleSize": 670,
+      "renektonWinRate": 50.75,
+      "enemyWinRate": 49.25
+    }
+  },
+  "Ambessa": {
+    "championId": 6,
+    "championName": "Ambessa",
+    "riotId": 799,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Counter Ambessa's Shield with Empowered W",
+        "titlePt": "Destruir o Escudo da Ambessa com W Fortalecido",
+        "contentEn": "Ambessa's W (Shield of Repulsion) provides a powerful shield. Use Renekton's Empowered W (Ruthless Predator) to break her shield and neutralize Ambessa's tanking ability.",
+        "contentPt": "O W de Ambessa concede um escudo poderoso. Guarde e use o W Fortalecido de Renekton (50+ Fúria) para quebrar o escudo instantaneamente e anular a mitigação de dano dela."
+      },
+      {
+        "titleEn": "Utilize Early Game Priority and Pressure",
+        "titlePt": "Prioridade e Pressão no Early Game",
+        "contentEn": "Renekton is a hard counter to Ambessa. Engage in aggressive trades and apply pressure from the early game to seize lane priority and prevent Ambessa from scaling.",
+        "contentPt": "Renekton é um counter direto para a Ambessa. Force trocas agressivas desde os primeiros níveis para assumir a prioridade e impedir que ela escale no jogo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 3321,
+      "renektonWinRate": 50.68,
+      "enemyWinRate": 49.32
+    }
+  },
+  "Illaoi": {
+    "championId": 46,
+    "championName": "Illaoi",
+    "riotId": 420,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Dodging and Countering Illaoi's E Skill",
+        "titlePt": "Desviando e Punindo o Puxão de Espírito (E)",
+        "contentEn": "Illaoi's Test of Spirit (E) is her core skill, so it's crucial to dodge it. If you are hit by her E, quickly destroy the spirit while avoiding Illaoi's tentacle attacks, or engage Illaoi directly to trade damage.",
+        "contentPt": "O Teste de Espírito (E) da Illaoi é a habilidade central do matchup. Esquive-se ativamente do projétil usando o E ou a wave; sem o E, Illaoi perde a maior parte do seu potencial de troca."
+      },
+      {
+        "titleEn": "Utilizing W for Damage Trades",
+        "titlePt": "Utilizando o W para Trocas Curtas e Unilaterais",
+        "contentEn": "Renekton's W (Ruthless Predator) is an excellent tool to interrupt Illaoi's tentacle attacks or initiate one-sided trades against her. Empowered W, in particular, can counter Illaoi's healing with its shield break effect.",
+        "contentPt": "O W de Renekton permite atordoar a Illaoi para interromper ataques de tentáculos. Use trocas rápidas (E in > W > Q > E out) e nunca permaneça parado após ela ultar no nível 6."
+      }
+    ],
+    "stats": {
+      "sampleSize": 489,
+      "renektonWinRate": 37.01,
+      "enemyWinRate": 62.99
+    }
+  },
+  "Ivern": {
+    "championId": 48,
+    "championName": "Ivern",
+    "riotId": 427,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 27,
+      "renektonWinRate": 51.85,
+      "enemyWinRate": 48.15
+    }
+  },
+  "Janna": {
+    "championId": 49,
+    "championName": "Janna",
+    "riotId": 40,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Camille": {
+    "championId": 22,
+    "championName": "Camille",
+    "riotId": 164,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Break Shields with Empowered W",
+        "titlePt": "Trocar Considerando o Escudo da Passiva da Camille",
+        "contentEn": "Camille's Passive shield is crucial for trades, so accumulate 50 Fury and use Empowered W (Ruthless Predator) to break her shield and unleash burst damage.",
+        "contentPt": "O escudo passivo de Camille é o pilar das trocas dela. Acumule 50 de Fúria e utilize o W Fortalecido (Predador Implacável) para destruir o escudo e desferir dano explosivo imediato."
+      },
+      {
+        "titleEn": "Early Lane Pressure",
+        "titlePt": "Pressão Agressiva de Lane no Early Game",
+        "contentEn": "Before core items are completed, Renekton has superior base stats compared to Camille. Aggressively trade in the 1-3 level range to gain lane priority and apply pressure.",
+        "contentPt": "Antes do primeiro item fechado, Renekton possui atributos base e dano inicial muito superiores aos de Camille. Pressione com trocas curtas agressivas do nível 1 ao 3."
+      }
+    ],
+    "stats": {
+      "sampleSize": 576,
+      "renektonWinRate": 49.48,
+      "enemyWinRate": 50.52
+    }
+  },
+  "Darius": {
+    "championId": 26,
+    "championName": "Darius",
+    "riotId": 122,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Trading with E",
+        "titlePt": "Trocas Curtas e Desvio com E",
+        "contentEn": "When Darius uses Q (Decimate), use E (Slice and Dice) to dash inside, avoiding the axe blade damage. Then, use W (Ruthless Predator) for a stun, follow up with Q (Cull the Meek) for a trade, and use E to disengage, preventing Darius from stacking 5 Hemorrhage stacks.",
+        "contentPt": "Quando Darius conjurar o Dizimar (Q), use o E (Slice and Dice) para dar dash para dentro do círculo interno, evitando o dano da lâmina e a cura. Em seguida, atordoe com W, use Q e saia com o segundo E antes que ele acumule 5 stacks de Hemorragia."
+      },
+      {
+        "titleEn": "Fury Management and Empowered W Usage",
+        "titlePt": "Gerenciamento de Fúria e Reação ao Puxão",
+        "contentEn": "If Darius pulls you with E (Apprehend) and you have 50 or more Fury, immediately stun him with Empowered W (Ruthless Predator) to interrupt his trade and deal damage in return.",
+        "contentPt": "Se Darius puxar você com o E (Apreender) e você tiver 50+ de Fúria, atordoe-o imediatamente com o W Fortalecido para interromper a sequência de dano dele e devolver o burst."
+      }
+    ],
+    "stats": {
+      "sampleSize": 861,
+      "renektonWinRate": 52.96,
+      "enemyWinRate": 47.04
+    }
+  },
+  "Aurora": {
+    "championId": 13,
+    "championName": "Aurora",
+    "riotId": 893,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Countering Aurora's E Skill Usage",
+        "titlePt": "Contornando o Salto (E) da Aurora",
+        "contentEn": "Aurora's E skill has excellent dash judgment and a slow effect, allowing it to counter Renekton's dash. Engage after Aurora uses her E skill, or initiate a trade once you confirm her E skill is on cooldown.",
+        "contentPt": "O E da Aurora possui ótimo dash defensivo e causa lentidão, counterando o avanço direto de Renekton. Espere ela usar o E ou inicie a troca rápida assim que a habilidade estiver em cooldown."
+      },
+      {
+        "titleEn": "Countering Aurora's Passive with Empowered W",
+        "titlePt": "Quebrando a Passiva e Escudos com W Fortalecido",
+        "contentEn": "Aurora's passive generates a healing spirit on every third hit. Renekton's empowered W has a shield break effect, so destroy the spirit generated by Aurora's passive to weaken her sustain.",
+        "contentPt": "A passiva de Aurora concede sustentação espiritual e escudos. Use o W Fortalecido com 50+ de Fúria para quebrar as defesas e punir a fragilidade dela em trocas corpo a corpo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 110,
+      "renektonWinRate": 56.36,
+      "enemyWinRate": 43.64
+    }
+  },
+  "Jhin": {
+    "championId": 53,
+    "championName": "Jhin",
+    "riotId": 202,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 24,
+      "renektonWinRate": 12.5,
+      "enemyWinRate": 87.5
+    }
+  },
+  "Heimerdinger": {
+    "championId": 44,
+    "championName": "Heimerdinger",
+    "riotId": 74,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Engage After Turret Removal",
+        "titlePt": "Engajar Apenas Após Limpar as Torres",
+        "contentEn": "Heimerdinger's turrets can be easily removed with Renekton's Q. Weaken Heimerdinger's damage by removing his turrets first, then use E to engage and trade damage.",
+        "contentPt": "Não lute dentro da zona das 3 torres de Heimerdinger. Elimine as torres com Q fortalecido ou waveclear e só então use E > W para o all-in."
+      },
+      {
+        "titleEn": "Stun Combo with Empowered W",
+        "titlePt": "Combo de Atordoamento com W Fortalecido",
+        "contentEn": "Heimerdinger is vulnerable to Renekton's W due to his lack of mobility. After engaging with E, use Empowered W to stun Heimerdinger, interrupting his turret placement and ability usage, then burst him down.",
+        "contentPt": "Heimerdinger é extremamente frágil. Se você fechar a distância com o duplo E e encaixar o W Fortalecido, ele será eliminado antes que possa reagir com a Granada E."
+      }
+    ],
+    "stats": {
+      "sampleSize": 104,
+      "renektonWinRate": 51.92,
+      "enemyWinRate": 48.08
+    }
+  },
+  "Jinx": {
+    "championId": 54,
+    "championName": "Jinx",
+    "riotId": 222,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Kai'Sa": {
+    "championId": 56,
+    "championName": "Kai'Sa",
+    "riotId": 145,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 48,
+      "renektonWinRate": 68.75,
+      "enemyWinRate": 31.25
+    }
+  },
+  "Kalista": {
+    "championId": 57,
+    "championName": "Kalista",
+    "riotId": 429,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 29,
+      "renektonWinRate": 24.14,
+      "enemyWinRate": 75.86
+    }
+  },
+  "Karma": {
+    "championId": 58,
+    "championName": "Karma",
+    "riotId": 43,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 24,
+      "renektonWinRate": 70.83,
+      "enemyWinRate": 29.17
+    }
+  },
+  "Gnar": {
+    "championId": 40,
+    "championName": "Gnar",
+    "riotId": 150,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Utilizing Gnar's Transformation Timing",
+        "titlePt": "Aproveitar a Janela de Transformação do Mini Gnar",
+        "contentEn": "When Gnar is Mini Gnar, using E (Hop) allows for a double jump, which can be used to close gaps or escape. If Gnar uses E just before transforming into Mega Gnar, it becomes a double-jumped Crunch, making surprise engagements crucial.",
+        "contentPt": "Mini Gnar é extremamente frágil e vulnerável logo após voltar da forma Mega Gnar. Use esse momento de exaustão de fúria para dar all-in com duplo E e W Fortalecido."
+      },
+      {
+        "titleEn": "Disrupting Gnar's Fury Management",
+        "titlePt": "Baitar e Punir o Salto (E) do Gnar",
+        "contentEn": "Keep an eye on Gnar's fury bar. Avoid trading just before he transforms into Mega Gnar, and actively seek trades when he is in Mini Gnar form to prevent him from transforming at his desired timing.",
+        "contentPt": "O Salto (E) de Mini Gnar tem 22s de cooldown inicial. Force o salto com o primeiro dash de E, e use o segundo dash ou Flash + W para finalizar o abate."
+      }
+    ],
+    "stats": {
+      "sampleSize": 952,
+      "renektonWinRate": 52.21,
+      "enemyWinRate": 47.79
+    }
+  },
+  "Gwen": {
+    "championId": 42,
+    "championName": "Gwen",
+    "riotId": 887,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Countering Gwen's W Skill Usage",
+        "titlePt": "Contornando a Névoa Sagrada (W)",
+        "contentEn": "Gwen's W (Hallowed Mist) ignores targeting from enemies outside its area. If Gwen uses W, use E (Skip 'n Slash) to move out of the mist and either wait for your skill cooldowns or target another enemy.",
+        "contentPt": "A Névoa Sagrada (W) de Gwen impede dano de fora, mas dentro da área ela é vulnerável. Use o dash duplo do E para entrar na névoa e descarregar o combo completo corpo a corpo."
+      },
+      {
+        "titleEn": "Gaining Early Game Trade Advantage",
+        "titlePt": "Vantagem Massiva de Troca no Início do Jogo",
+        "contentEn": "Gwen struggles with Renekton's hit-and-run trades at levels 1-2. After level 3, utilize all your Q-W-E skills to build up Fury for an empowered W, then attempt a powerful trade.",
+        "contentPt": "Antes do nível 6 e antes do primeiro item, Gwen não aguenta o burst de Renekton. Troque agressivamente para acumular vantagem e impedi-la de crescer no jogo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 365,
+      "renektonWinRate": 56.44,
+      "enemyWinRate": 43.56
+    }
+  },
+  "Karthus": {
+    "championId": 59,
+    "championName": "Karthus",
+    "riotId": 30,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 12,
+      "renektonWinRate": 8.329999999999998,
+      "enemyWinRate": 91.67
+    }
+  },
+  "Kassadin": {
+    "championId": 60,
+    "championName": "Kassadin",
+    "riotId": 38,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 16,
+      "renektonWinRate": 87.5,
+      "enemyWinRate": 12.5
+    }
+  },
+  "Dr. Mundo": {
+    "championId": 28,
+    "championName": "Dr. Mundo",
+    "riotId": 36,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Neutralize Mundo's Passive with Empowered W",
+        "titlePt": "Anulando a Passiva do Mundo com W Fortalecido",
+        "contentEn": "Dr. Mundo's passive ignores immobilizing effects, but Renekton's empowered W (Ruthless Predator) has a shield-breaking effect that can remove Mundo's passive shield. Use your empowered W when Mundo's passive is on cooldown to gain an advantage in trades.",
+        "contentPt": "A passiva do Dr. Mundo ignora o primeiro efeito imobilizador, mas o W Fortalecido de Renekton remove o escudo passivo e quebra sua defesa. Force trocas agressivas enquanto o canister dele estiver em recarga."
+      },
+      {
+        "titleEn": "Pressure Mundo's Sustain with Your Ultimate",
+        "titlePt": "Pressione a Sustentação com Dominus (R)",
+        "contentEn": "Dr. Mundo recovers a tremendous amount of health with his ultimate (R). Renekton's ultimate (R) grants bonus health and Fury, increasing his combat sustain. When Mundo uses his ultimate, activate Renekton's ultimate to counter and continuously pressure Mundo's sustain.",
+        "contentPt": "Dr. Mundo regenera muita vida com a Ultimate (R). Ative sua Ultimate Dominus (R) para ganhar vida bônus, dano em área contínuo e geração acelerada de Fúria para sobrecarregar a sustentação dele."
+      }
+    ],
+    "stats": {
+      "sampleSize": 738,
+      "renektonWinRate": 48.37,
+      "enemyWinRate": 51.63
+    }
+  },
+  "Gragas": {
+    "championId": 41,
+    "championName": "Gragas",
+    "riotId": 79,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Gragas E Skill Bait and Dodge",
+        "titlePt": "Baitar e Esquivar da Barrigada (E)",
+        "contentEn": "Gragas's Body Slam (E) can interrupt Renekton's Slice and Dice (E). Bait Gragas into using his E, then use your E to dodge or engage.",
+        "contentPt": "O E (Impacto Corporal) de Gragas interrompe seu avanço. Use o primeiro E para atrair a barrigada e desvie lateralmente, ou aguarde o erro dele para punir com W total."
+      },
+      {
+        "titleEn": "Neutralize Gragas W Damage Reduction with Empowered W",
+        "titlePt": "Anular a Redução de Dano com W Fortalecido",
+        "contentEn": "When Gragas activates damage reduction with Drunken Rage (W), use Renekton's empowered W (Ruthless Predator) to break his shield and neutralize Gragas's damage reduction, then burst him down.",
+        "contentPt": "O W de Gragas concede redução de dano, mas não resiste ao dano concentrado do W com 50+ de Fúria combinado com cancelamento de animação."
+      }
+    ],
+    "stats": {
+      "sampleSize": 340,
+      "renektonWinRate": 53.82,
+      "enemyWinRate": 46.18
+    }
+  },
+  "Katarina": {
+    "championId": 61,
+    "championName": "Katarina",
+    "riotId": 55,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 4,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Kayn": {
+    "championId": 63,
+    "championName": "Kayn",
+    "riotId": 141,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 50,
+      "renektonWinRate": 58,
+      "enemyWinRate": 42
+    }
+  },
+  "Garen": {
+    "championId": 39,
+    "championName": "Garen",
+    "riotId": 86,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Utilizing Garen's W Cooldown",
+        "titlePt": "Aproveitar o Longo Cooldown do W do Garen",
+        "contentEn": "Garen's Courage (W) has a long cooldown. After Garen uses his W, you can gain an advantage in trades, so actively seek trades with empowered Q or W when his W is on cooldown.",
+        "contentPt": "A Coragem (W) de Garen tem tempo de recarga elevado. Assim que ele gastar o W, busque trocas agressivas com Q ou W fortalecidos para punir sua armadura reduzida."
+      },
+      {
+        "titleEn": "Gaining Early Game Trade Advantage",
+        "titlePt": "Kitar o Garen durante o Giro (E)",
+        "contentEn": "Renekton has strong early game trades. He has an advantage over Garen until his first item, so manage your Fury well to continuously pressure Garen's health with empowered abilities and look for lethal setups.",
+        "contentPt": "Renekton tem vantagem clara nas trocas do early game. Use o E para kite durante o giro do E do Garen, acertando W e Q fortalecidos antes de desengajar."
+      }
+    ],
+    "stats": {
+      "sampleSize": 657,
+      "renektonWinRate": 54.34,
+      "enemyWinRate": 45.66
+    }
+  },
+  "Kha'Zix": {
+    "championId": 65,
+    "championName": "Kha'Zix",
+    "riotId": 121,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Kindred": {
+    "championId": 66,
+    "championName": "Kindred",
+    "riotId": 203,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Fiora": {
+    "championId": 35,
+    "championName": "Fiora",
+    "riotId": 114,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Gain the Psychological Edge with Riposte (W)",
+        "titlePt": "Baitando o Ripostar (W) da Fiora",
+        "contentEn": "Fiora's Riposte (W) can block Renekton's Ruthless Predator (W), but Renekton has the psychological advantage. Make it difficult for Fiora to bait out Riposte by only using E-Q followed by an auto-attack, or by faking with E-Q-auto-W.",
+        "contentPt": "O Ripostar (W) de Fiora pode bloquear seu W, mas a vantagem mental é sua. Alterne o timing: use combos falsos como E > Q > Auto-ataque e segure o W para quando ela gastar a habilidade defensiva em falso."
+      },
+      {
+        "titleEn": "Solidify Your Stat Advantage with Dominus (R) at Level 6",
+        "titlePt": "Garantir a Vantagem no Nível 6 com Dominus (R)",
+        "contentEn": "After Level 6, using Dominus (R) significantly increases Renekton's stats, making it difficult for Fiora to keep up. Utilize your ultimate to gain an overwhelming advantage in trades and look for solo kill opportunities.",
+        "contentPt": "Após o nível 6, o aumento de vida e dano em área de Dominus (R) sobrepuja o kit inicial da Fiora. Ative o R em all-ins e busque oportunidades claras de solo kill."
+      }
+    ],
+    "stats": {
+      "sampleSize": 663,
+      "renektonWinRate": 53.54,
+      "enemyWinRate": 46.46
+    }
+  },
+  "Kog'Maw": {
+    "championId": 68,
+    "championName": "Kog'Maw",
+    "riotId": 96,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 50,
+      "renektonWinRate": 56,
+      "enemyWinRate": 44
+    }
+  },
+  "LeBlanc": {
+    "championId": 69,
+    "championName": "LeBlanc",
+    "riotId": 7,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 17,
+      "renektonWinRate": 58.82,
+      "enemyWinRate": 41.18
+    }
+  },
+  "Gangplank": {
+    "championId": 38,
+    "championName": "Gangplank",
+    "riotId": 41,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Use W after Gangplank's W",
+        "titlePt": "Guardar o W para Depois do W do Gangplank",
+        "contentEn": "Gangplank's W (Remove Scurvy) removes Renekton's W (Ruthless Predator) stun. Confirm Gangplank has used his W before using Renekton's W to ensure the stun effect lands.",
+        "contentPt": "Gangplank usará o W (Laranja) para se livrar do seu atordoamento. Pressione com E e Q, forçando ele a usar a laranja defensivamente antes de descarregar seu W Fortalecido."
+      },
+      {
+        "titleEn": "Avoid Powder Keg Harass",
+        "titlePt": "Evitar o Harass de Barris de Pólvora",
+        "contentEn": "Gangplank has strong long-range poke with his Q (Parrrley) and E (Powder Keg). Quickly destroy the Powder Kegs or attempt trades outside of their range to minimize damage.",
+        "contentPt": "Não deixe GP estocar barris livremente. Dê last hit nos barris quando o contador cair para 1 ou use o duplo dash do E para cruzar a área explosiva e engajar diretamente nele."
+      }
+    ],
+    "stats": {
+      "sampleSize": 965,
+      "renektonWinRate": 51.71,
+      "enemyWinRate": 48.29
+    }
+  },
+  "Lillia": {
+    "championId": 72,
+    "championName": "Lillia",
+    "riotId": 876,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 7,
+      "renektonWinRate": 71.43,
+      "enemyWinRate": 28.569999999999993
+    }
+  },
+  "Lee Sin": {
+    "championId": 70,
+    "championName": "Lee Sin",
+    "riotId": 64,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 63,
+      "renektonWinRate": 58.73,
+      "enemyWinRate": 41.27
+    }
+  },
+  "Lissandra": {
+    "championId": 73,
+    "championName": "Lissandra",
+    "riotId": 127,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 83,
+      "renektonWinRate": 40.96,
+      "enemyWinRate": 59.04
+    }
+  },
+  "Lucian": {
+    "championId": 74,
+    "championName": "Lucian",
+    "riotId": 236,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 9,
+      "renektonWinRate": 66.67,
+      "enemyWinRate": 33.33
+    }
+  },
+  "Irelia": {
+    "championId": 47,
+    "championName": "Irelia",
+    "riotId": 39,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Use W after Irelia's W",
+        "titlePt": "Guardar o W para Depois do W da Irelia",
+        "contentEn": "Irelia's Defiant Dance (W) reduces the damage from Renekton's Ruthless Predator (W). To maximize your damage, use Renekton's W after Irelia has used her W.",
+        "contentPt": "Irelia usará o W (Dança Desafiadora) para mitigar dano físico. Aguarde o término da canalização para aplicar o W Fortalecido e garantir o dano total."
+      },
+      {
+        "titleEn": "Avoid trades before Level 3",
+        "titlePt": "Evitar Trocas Antes do Nível 3",
+        "contentEn": "Irelia has an advantage against Renekton before he has all his skills at Level 3. Avoid trading before Level 3 and focus on building up your Fury.",
+        "contentPt": "Respeite o nível 1 e 2 da Irelia se a passiva dela estiver com 4 stacks. A partir do nível 3 com kit completo, Renekton domina totalmente os duelos."
+      }
+    ],
+    "stats": {
+      "sampleSize": 879,
+      "renektonWinRate": 52.79,
+      "enemyWinRate": 47.21
+    }
+  },
+  "Lulu": {
+    "championId": 75,
+    "championName": "Lulu",
+    "riotId": 117,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 5,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Lux": {
+    "championId": 76,
+    "championName": "Lux",
+    "riotId": 99,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 3,
+      "renektonWinRate": 66.67,
+      "enemyWinRate": 33.33
+    }
+  },
+  "Malzahar": {
+    "championId": 78,
+    "championName": "Malzahar",
+    "riotId": 90,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 58,
+      "renektonWinRate": 62.07,
+      "enemyWinRate": 37.93
+    }
+  },
+  "Maokai": {
+    "championId": 79,
+    "championName": "Maokai",
+    "riotId": 57,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 95,
+      "renektonWinRate": 53.68,
+      "enemyWinRate": 46.32
+    }
+  },
+  "Master Yi": {
+    "championId": 80,
+    "championName": "Master Yi",
+    "riotId": 11,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 149,
+      "renektonWinRate": 67.78999999999999,
+      "enemyWinRate": 32.21
+    }
+  },
+  "Milio": {
+    "championId": 82,
+    "championName": "Milio",
+    "riotId": 902,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Miss Fortune": {
+    "championId": 83,
+    "championName": "Miss Fortune",
+    "riotId": 21,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Mel": {
+    "championId": 81,
+    "championName": "Mel",
+    "riotId": 800,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 5,
+      "renektonWinRate": 60,
+      "enemyWinRate": 40
+    }
+  },
+  "Morgana": {
+    "championId": 85,
+    "championName": "Morgana",
+    "riotId": 25,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 16,
+      "renektonWinRate": 62.5,
+      "enemyWinRate": 37.5
+    }
+  },
+  "Nami": {
+    "championId": 87,
+    "championName": "Nami",
+    "riotId": 267,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Naafiri": {
+    "championId": 86,
+    "championName": "Naafiri",
+    "riotId": 950,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 30,
+      "renektonWinRate": 36.67,
+      "enemyWinRate": 63.33
+    }
+  },
+  "Nautilus": {
+    "championId": 89,
+    "championName": "Nautilus",
+    "riotId": 111,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 3,
+      "renektonWinRate": 33.33,
+      "enemyWinRate": 66.67
+    }
+  },
+  "Neeko": {
+    "championId": 90,
+    "championName": "Neeko",
+    "riotId": 518,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 10,
+      "renektonWinRate": 10,
+      "enemyWinRate": 90
+    }
+  },
+  "Nilah": {
+    "championId": 92,
+    "championName": "Nilah",
+    "riotId": 895,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Nidalee": {
+    "championId": 91,
+    "championName": "Nidalee",
+    "riotId": 76,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 22,
+      "renektonWinRate": 59.09,
+      "enemyWinRate": 40.91
+    }
+  },
+  "Nocturne": {
+    "championId": 93,
+    "championName": "Nocturne",
+    "riotId": 56,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 30,
+      "renektonWinRate": 60,
+      "enemyWinRate": 40
+    }
+  },
+  "Nunu & Willump": {
+    "championId": 94,
+    "championName": "Nunu & Willump",
+    "riotId": 20,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Orianna": {
+    "championId": 96,
+    "championName": "Orianna",
+    "riotId": 61,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 6,
+      "renektonWinRate": 66.67,
+      "enemyWinRate": 33.33
+    }
+  },
+  "Leona": {
+    "championId": 71,
+    "championName": "Leona",
+    "riotId": 89,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Jax": {
+    "championId": 51,
+    "championName": "Jax",
+    "riotId": 24,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Jax E Skill Usage Caution",
+        "titlePt": "Cuidado Crítico com o Contra-Ataque (E) do Jax",
+        "contentEn": "Jax's E (Counter Strike) ignores basic attacks, so if Jax uses E, save your W (Ruthless Predator) and trade damage with Q (Cull the Meek) or E (Slice and Dice) before disengaging. Once Jax's E ends, stun him with W and deal damage.",
+        "contentPt": "O Contra-Ataque (E) do Jax esquiva ataques básicos e anula seu W. Nunca use o W enquanto o E dele estiver girando. Use E para desengajar e só atordoe após o término da habilidade."
+      },
+      {
+        "titleEn": "Aggressive Trades After Level 3",
+        "titlePt": "Trocas Agressivas a Partir do Nível 3",
+        "contentEn": "After Level 3, Renekton gains an advantage over Jax once all his skills are learned. Utilize the long range of E (Slice and Dice) to initiate trades outside of Jax's E range, and quickly disengage if Jax uses E.",
+        "contentPt": "A partir do nível 3, Renekton possui enorme vantagem de controle de rota. Inicie trocas de fora do alcance do E dele e domine o ritmo da rota."
+      }
+    ],
+    "stats": {
+      "sampleSize": 881,
+      "renektonWinRate": 51.76,
+      "enemyWinRate": 48.24
+    }
+  },
+  "Jayce": {
+    "championId": 52,
+    "championName": "Jayce",
+    "riotId": 126,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Trading with Empowered W",
+        "titlePt": "Trocas Explosivas com W Fortalecido",
+        "contentEn": "When Jayce approaches in Hammer Form, stun him with an empowered W (50+ Fury) to initiate a trade. This will interrupt Jayce's burst damage and give you an advantage.",
+        "contentPt": "Jayce na forma canhão é frágil. Feche a distância através da wave com o E e aplique o W Fortalecido antes que ele possa alternar para o martelo e te afastar com o E."
+      },
+      {
+        "titleEn": "Dodging Jayce's Q with E",
+        "titlePt": "Jogar controlando o Range do Jayce",
+        "contentEn": "Jayce's empowered Q (QE combo) is very strong. Use your E to dodge it or close the gap for a trade as soon as Jayce fires his Q.",
+        "contentPt": "Mantenha-se protegido atrás dos minions para evitar o poke do portal de aceleração, e use os dashes de Renekton para punir os tempos de recarga dele."
+      }
+    ],
+    "stats": {
+      "sampleSize": 1063,
+      "renektonWinRate": 49.48,
+      "enemyWinRate": 50.52
+    }
+  },
+  "Pyke": {
+    "championId": 100,
+    "championName": "Pyke",
+    "riotId": 555,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Rakan": {
+    "championId": 103,
+    "championName": "Rakan",
+    "riotId": 497,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Qiyana": {
+    "championId": 101,
+    "championName": "Qiyana",
+    "riotId": 246,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 19,
+      "renektonWinRate": 68.42,
+      "enemyWinRate": 31.58
+    }
+  },
+  "Jarvan IV": {
+    "championId": 50,
+    "championName": "Jarvan IV",
+    "riotId": 59,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Dodging Jarvan's Flag-and-Drag Combo",
+        "titlePt": "Esquivando do Combo E-Q (Flag & Drag)",
+        "contentEn": "Jarvan's Q-E combo is a powerful airborne CC. When you see Jarvan throw his flag, use your E ability to dodge or your W ability to stun him and interrupt the combo.",
+        "contentPt": "O combo E-Q do Jarvan é previsível. Esquive lateralmente com o E de Renekton e vire o confronto com atordoamento imediato."
+      },
+      {
+        "titleEn": "Breaking Jarvan's Shield with Empowered W",
+        "titlePt": "Destruindo o Escudo do W com W Fortalecido",
+        "contentEn": "Jarvan gains a shield from his W ability. Use Renekton's empowered W (Ruthless Predator) to break Jarvan's shield and gain an advantage in trades.",
+        "contentPt": "O W de Jarvan concede um escudo de área. O W Fortalecido de Renekton destrói esse escudo instantaneamente, maximizando seu dano de duelo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 7,
+      "renektonWinRate": 57.14,
+      "enemyWinRate": 42.86
+    }
+  },
+  "Rammus": {
+    "championId": 104,
+    "championName": "Rammus",
+    "riotId": 33,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 16,
+      "renektonWinRate": 93.75,
+      "enemyWinRate": 6.25
+    }
+  },
+  "Rek'Sai": {
+    "championId": 105,
+    "championName": "Rek'Sai",
+    "riotId": 421,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 16,
+      "renektonWinRate": 31.25,
+      "enemyWinRate": 68.75
+    }
+  },
+  "Rell": {
+    "championId": 106,
+    "championName": "Rell",
+    "riotId": 526,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Renata Glasc": {
+    "championId": 107,
+    "championName": "Renata Glasc",
+    "riotId": 888,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": null
+  },
+  "Rengar": {
+    "championId": 108,
+    "championName": "Rengar",
+    "riotId": 107,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 130,
+      "renektonWinRate": 58.46,
+      "enemyWinRate": 41.54
+    }
+  },
+  "Kayle": {
+    "championId": 62,
+    "championName": "Kayle",
+    "riotId": 10,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Leveraging Early Lane Priority",
+        "titlePt": "Pressão Total de Rota e Zoneamento Inicial",
+        "contentEn": "Kayle is weak in the early game, so actively seek trades from Level 1 to build up your Fury. Use your Q skill to restore health and seize lane priority. Harass Kayle to prevent her from stacking her Zeal.",
+        "contentPt": "Kayle é a campeã mais frágil dos níveis 1 ao 5. Congele a rota (freeze), force trocas com E e W e negue o máximo de experiência e ouro possível."
+      },
+      {
+        "titleEn": "Disabling Kayle with Empowered W",
+        "titlePt": "Dives Fáceis Antes do Nível 6",
+        "contentEn": "Once Kayle transforms into a ranged champion at Level 6, quickly close the gap with E-E, then stun her with an empowered W and burst her down. It's crucial to bait out Kayle's W healing skill.",
+        "contentPt": "Antes da Ultimate de invulnerabilidade no nível 6, Kayle não tem ferramentas de escape contra o combo de burst do Renekton sob a torre."
+      }
+    ],
+    "stats": {
+      "sampleSize": 101,
+      "renektonWinRate": 32.67,
+      "enemyWinRate": 67.33
+    }
+  },
+  "K'Sante": {
+    "championId": 55,
+    "championName": "K'Sante",
+    "riotId": 897,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "K'Sante W Skill Usage Caution",
+        "titlePt": "Cuidado com o W (Criador de Caminhos) Imparável",
+        "contentEn": "K'Sante's W can block Renekton's W combo. If K'Sante uses W, wait a moment before using your skills, or use E to disengage and avoid the trade.",
+        "contentPt": "O W de K'Sante reduz dano massivamente e ignora controle de grupo. Guarde seu W Fortalecido para puni-lo quando a postura defensiva terminar."
+      },
+      {
+        "titleEn": "Utilizing Early Game Priority",
+        "titlePt": "Aproveitando a Prioridade no Early Game",
+        "contentEn": "K'Sante is stronger than Renekton in the early game. Even after level 3, K'Sante's W can block Renekton's combos, so avoid aggressive trades in the early laning phase and focus on stable scaling.",
+        "contentPt": "Antes do nível 6, Renekton tem vantagem em trocas curtas. Controle a wave, negue farm e force K'Sante a gastar mana excessiva para limpar a rota."
+      }
+    ],
+    "stats": {
+      "sampleSize": 1115,
+      "renektonWinRate": 50.31,
+      "enemyWinRate": 49.69
+    }
+  },
+  "Kled": {
+    "championId": 67,
+    "championName": "Kled",
+    "riotId": 240,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Dodging Kled's Q Trap",
+        "titlePt": "Esquivando da Trapaça de Corda (Q)",
+        "contentEn": "Kled's Q (Bear Trap on a Rope) applies a healing reduction effect. Use the second dash of your E (Violent Tendencies) to dodge the second hit of the trap or create distance to avoid the healing reduction.",
+        "contentPt": "Desvie do Q de Kled para evitar a puxada e o corte de cura. Lute apenas quando a corda for evitada com sucesso."
+      },
+      {
+        "titleEn": "Counterattacking Kled When Dismounted",
+        "titlePt": "Contra-Ataque Devastador Quando Desmontado",
+        "contentEn": "When Kled is dismounted, it's Renekton's kill window. Use the stun and shield-breaking effect of your empowered W (Ruthless Predator) to interrupt Kled's courage recovery and quickly take him down.",
+        "contentPt": "Assim que Skaarl fugir e Kled desmontar, ative o all-in com W Fortalecido e Dominus (R) para eliminá-lo antes que ele recupere a montaria."
+      }
+    ],
+    "stats": {
+      "sampleSize": 272,
+      "renektonWinRate": 41.18,
+      "enemyWinRate": 58.82
+    }
+  },
+  "Kennen": {
+    "championId": 64,
+    "championName": "Kennen",
+    "riotId": 85,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Baiting Kennen's E",
+        "titlePt": "Baitar o Impulso do Relâmpago (E)",
+        "contentEn": "Kennen's E is his only escape and engage tool. Try to bait it out before attempting a trade. A Kennen without E is vulnerable to Renekton's dash.",
+        "contentPt": "O E de Kennen concede velocidade extrema para fugir. Force o gasto do E dele com avanço falso e busque o all-in com Flash + W enquanto a habilidade estiver em recarga."
+      },
+      {
+        "titleEn": "Interrupting Kennen's Stun with Empowered W",
+        "titlePt": "Interrompendo a Mobilidade com W Fortalecido",
+        "contentEn": "Kennen applies marks with his abilities to stun. Use Renekton's empowered W (Ruthless Predator)'s 1.5-second stun to interrupt Kennen's ability combos or ultimate engage.",
+        "contentPt": "O atordoamento de 1.5s do W Fortalecido trava Kennen no lugar, impedindo-o de acumular marcas da passiva em você."
+      }
+    ],
+    "stats": {
+      "sampleSize": 403,
+      "renektonWinRate": 50.87,
+      "enemyWinRate": 49.13
+    }
+  },
+  "Samira": {
+    "championId": 112,
+    "championName": "Samira",
+    "riotId": 360,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 8,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Sejuani": {
+    "championId": 113,
+    "championName": "Sejuani",
+    "riotId": 113,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 65,
+      "renektonWinRate": 63.08,
+      "enemyWinRate": 36.92
+    }
+  },
+  "Seraphine": {
+    "championId": 115,
+    "championName": "Seraphine",
+    "riotId": 147,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Senna": {
+    "championId": 114,
+    "championName": "Senna",
+    "riotId": 235,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 13,
+      "renektonWinRate": 23.08,
+      "enemyWinRate": 76.92
+    }
+  },
+  "Shaco": {
+    "championId": 117,
+    "championName": "Shaco",
+    "riotId": 35,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 13,
+      "renektonWinRate": 84.62,
+      "enemyWinRate": 15.38
+    }
+  },
+  "Shyvana": {
+    "championId": 119,
+    "championName": "Shyvana",
+    "riotId": 102,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 117,
+      "renektonWinRate": 33.33,
+      "enemyWinRate": 66.67
+    }
+  },
+  "Malphite": {
+    "championId": 77,
+    "championName": "Malphite",
+    "riotId": 54,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Early Lane Pressure",
+        "titlePt": "Pressão Constante no Início da Rota",
+        "contentEn": "Malphite has low early-game armor and high mana costs on his Q, making him vulnerable to poke. At levels 1-3, build up Fury to initiate trades with empowered W, then quickly engage with E for a trade and disengage.",
+        "contentPt": "O escudo passivo e a armadura do Malphite demoram para escalar. Troque agressivamente nos primeiros níveis com Q para minar a vida dele."
+      },
+      {
+        "titleEn": "Utilizing Empowered W",
+        "titlePt": "Quebrando o Escudo Passivo com W Fortalecido",
+        "contentEn": "Renekton's empowered W can break Malphite's passive shield. When trading, use empowered W to neutralize his shield and deal additional damage.",
+        "contentPt": "Utilize o W Fortalecido de Renekton para rasgar o escudo granítico do Malphite e aplicar dano verdadeiro à sua barra de vida."
+      }
+    ],
+    "stats": {
+      "sampleSize": 748,
+      "renektonWinRate": 48.13,
+      "enemyWinRate": 51.87
+    }
+  },
+  "Mordekaiser": {
+    "championId": 84,
+    "championName": "Mordekaiser",
+    "riotId": 82,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Leveraging Pre-Level 6 Lane Priority",
+        "titlePt": "Aproveitando a Prioridade Antes do Nível 6",
+        "contentEn": "Before level 6, Renekton has an advantage against Mordekaiser. Use your Fury-empowered Q and W to aggressively trade damage, gain a health lead, and secure lane priority.",
+        "contentPt": "Antes de liberar o Reino da Morte, Mordekaiser tem trocas lentas. Use E > W > Q > E out para puni-lo sem ativar a passiva de tempestade dele."
+      },
+      {
+        "titleEn": "Countering Mordekaiser's Ultimate",
+        "titlePt": "Destruindo o Escudo do W com W Fortalecido",
+        "contentEn": "After Mordekaiser learns his ultimate at level 6, diving him becomes difficult. Maximize your advantage before level 6, and afterward, keep track of Mordekaiser's ultimate (R) cooldown to set up ganks or dives.",
+        "contentPt": "O W de Mordekaiser gera um escudo massivo de quase metade da vida dele. O W Fortalecido de Renekton destrói todo o escudo instantaneamente!"
+      }
+    ],
+    "stats": {
+      "sampleSize": 883,
+      "renektonWinRate": 51.08,
+      "enemyWinRate": 48.92
+    }
+  },
+  "Nasus": {
+    "championId": 88,
+    "championName": "Nasus",
+    "riotId": 75,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Leveraging Early Lane Priority",
+        "titlePt": "Zoneamento Impiedoso e Freeze no Early Game",
+        "contentEn": "Nasus is weak in the early game, so actively harass him to prevent him from stacking Q at levels 1-3. Use empowered W for strong trades to pressure his HP and gain lane priority.",
+        "contentPt": "Nasus não consegue contestar Renekton nos primeiros níveis. Congele a wave perto da sua torre e negue stacks de Q sob ameaça constante de abate."
+      },
+      {
+        "titleEn": "Setting Up Dives and Snowballing",
+        "titlePt": "Configurando Dives e Snowball Ligeiro",
+        "contentEn": "Nasus tends to pull the lane, so coordinate with your jungler to set up dives. This will hinder Nasus's growth and allow you to snowball the game to a quick finish.",
+        "contentPt": "Empurre ondas gigantes (slow push) para a torre dele e chame o caçador ou realize dives solo com o burst e vida extra de Dominus (R)."
+      }
+    ],
+    "stats": {
+      "sampleSize": 1031,
+      "renektonWinRate": 43.94,
+      "enemyWinRate": 56.06
+    }
+  },
+  "Skarner": {
+    "championId": 123,
+    "championName": "Skarner",
+    "riotId": 72,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 43,
+      "renektonWinRate": 58.14,
+      "enemyWinRate": 41.86
+    }
+  },
+  "Sivir": {
+    "championId": 122,
+    "championName": "Sivir",
+    "riotId": 15,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Ornn": {
+    "championId": 97,
+    "championName": "Ornn",
+    "riotId": 516,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Ornn's W Unstoppable Usage",
+        "titlePt": "Cuidado com o W (Fôlego do Fole) Imparável",
+        "contentEn": "Ornn's W (Bellows Breath) grants him Unstoppable status. If Renekton uses W (Ruthless Predator) to stun Ornn while he is casting W, it can be nullified. It is better to apply the stun after Ornn's W ends.",
+        "contentPt": "O W de Ornn torna-o imune a controle de grupo durante o sopro. Não use o W de Renekton no meio da animação dele; espere o sopro terminar."
+      },
+      {
+        "titleEn": "Avoid Short Trades",
+        "titlePt": "Evite Trocas Longas Contra Efeitos Frágil",
+        "contentEn": "Ornn is strong in burst trades and can ignore Renekton's CC with his W ability. Since Renekton's strength in short trades is ineffective, you should avoid prolonged fights and hit-and-run tactics.",
+        "contentPt": "Evite ser atingido pela aplicação de Frágil. Entre, execute o combo rápido de W + Q e saia com o segundo E para evitar ser atordoado no pilar."
+      }
+    ],
+    "stats": {
+      "sampleSize": 305,
+      "renektonWinRate": 57.38,
+      "enemyWinRate": 42.62
+    }
+  },
+  "Smolder": {
+    "championId": 124,
+    "championName": "Smolder",
+    "riotId": 901,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 15,
+      "renektonWinRate": 80,
+      "enemyWinRate": 20
+    }
+  },
+  "Sona": {
+    "championId": 125,
+    "championName": "Sona",
+    "riotId": 37,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Soraka": {
+    "championId": 126,
+    "championName": "Soraka",
+    "riotId": 16,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Swain": {
+    "championId": 127,
+    "championName": "Swain",
+    "riotId": 50,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 125,
+      "renektonWinRate": 56.8,
+      "enemyWinRate": 43.2
+    }
+  },
+  "Pantheon": {
+    "championId": 98,
+    "championName": "Pantheon",
+    "riotId": 80,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Baiting Pantheon's E Skill",
+        "titlePt": "Baitar a Égide Protetora (E)",
+        "contentEn": "Pantheon's E skill grants invulnerability from the front, but he cannot move while casting it. When Pantheon uses E, wait for a moment and then use your W (stun) as the skill ends to initiate a trade.",
+        "contentPt": "O E de Pantheon bloqueia todo o dano frontal. Manobre com o E para dar dash para as costas dele ou espere o escudo cair para descarregar o dano."
+      },
+      {
+        "titleEn": "Looking for Kills Before Level 6",
+        "titlePt": "Buscando Abates Antes do Nível 6",
+        "contentEn": "Pantheon's power significantly increases after level 6 with his ultimate, so you should aim for kills or a CS lead before then. Actively seek trades with a full-stack W (empowered stun) and Q (empowered heal) combo.",
+        "contentPt": "No nível 6, a ultimate de combate de Renekton (Dominus) supera completamente a ultimate sem combate direto do Pantheon. Force all-ins no 6."
+      }
+    ],
+    "stats": {
+      "sampleSize": 593,
+      "renektonWinRate": 50.08,
+      "enemyWinRate": 49.92
+    }
+  },
+  "Tahm Kench": {
+    "championId": 130,
+    "championName": "Tahm Kench",
+    "riotId": 223,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 138,
+      "renektonWinRate": 55.07,
+      "enemyWinRate": 44.93
+    }
+  },
+  "Syndra": {
+    "championId": 129,
+    "championName": "Syndra",
+    "riotId": 134,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 27,
+      "renektonWinRate": 44.44,
+      "enemyWinRate": 55.56
+    }
+  },
+  "Taliyah": {
+    "championId": 131,
+    "championName": "Taliyah",
+    "riotId": 163,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 8,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Olaf": {
+    "championId": 95,
+    "championName": "Olaf",
+    "riotId": 2,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Understanding Olaf's Ultimate Usage",
+        "titlePt": "Entendendo o Pico de Fúria e a Ultimate do Olaf",
+        "contentEn": "Olaf's ultimate (R) grants him CC immunity and increased combat power, rendering Renekton's W (stun) ineffective when Olaf uses his ultimate. Try to engage in trades with W when Olaf's ultimate is on cooldown.",
+        "contentPt": "Olaf ganha muita velocidade de ataque e roubo de vida quando está com pouca vida. Não prolongue trocas; foque em dano explosivo (burst) para finalizá-lo de uma vez."
+      },
+      {
+        "titleEn": "Sustain with Empowered Q",
+        "titlePt": "Sustentação com Q Fortalecido e Trocas Curtas",
+        "contentEn": "Olaf frequently attempts sustained trades with his Q (Undertow) and E (Reckless Swing). Renekton should utilize the healing effect of his empowered Q (Cull the Meek) to enhance his lane sustain and withstand Olaf's poke.",
+        "contentPt": "Use o Q com 50+ de Fúria na wave para curar grandes quantias de vida e desengaje com o duplo E antes que Olaf acerte machados consecutivos."
+      }
+    ],
+    "stats": {
+      "sampleSize": 503,
+      "renektonWinRate": 54.08,
+      "enemyWinRate": 45.92
+    }
+  },
+  "Talon": {
+    "championId": 132,
+    "championName": "Talon",
+    "riotId": 91,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 14,
+      "renektonWinRate": 28.57,
+      "enemyWinRate": 71.43
+    }
+  },
+  "Taric": {
+    "championId": 133,
+    "championName": "Taric",
+    "riotId": 44,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Poppy": {
+    "championId": 99,
+    "championName": "Poppy",
+    "riotId": 78,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Engage after confirming Poppy's W",
+        "titlePt": "Engajar Apenas Após Confirmar o W de Poppy",
+        "contentEn": "Poppy's W (Steadfast Presence) blocks Renekton's E (Slice and Dice) dash and stuns him. Therefore, attempt a trade with E after confirming Poppy has used her W or when it's on cooldown.",
+        "contentPt": "A Presença Inabalável (W) de Poppy bloqueia os dashes de Renekton. Não use o E se a barreira luminosa dela estiver ativa."
+      },
+      {
+        "titleEn": "Short trades and disengage",
+        "titlePt": "Trocas Curtas Longe das Paredes",
+        "contentEn": "Poppy is strong in sustained trades, and her shield and max health damage put Renekton at a disadvantage. Use a hit-and-run strategy: quickly deal damage with an E-W-Q combo and disengage with the second cast of E.",
+        "contentPt": "Mantenha-se no centro da rota para evitar o stun de impacto do E dela contra as paredes e execute trocas rápidas de Q."
+      }
+    ],
+    "stats": {
+      "sampleSize": 266,
+      "renektonWinRate": 54.14,
+      "enemyWinRate": 45.86
+    }
+  },
+  "Thresh": {
+    "championId": 135,
+    "championName": "Thresh",
+    "riotId": 412,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Tristana": {
+    "championId": 136,
+    "championName": "Tristana",
+    "riotId": 18,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 18,
+      "renektonWinRate": 38.89,
+      "enemyWinRate": 61.11
+    }
+  },
+  "Twitch": {
+    "championId": 140,
+    "championName": "Twitch",
+    "riotId": 29,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Udyr": {
+    "championId": 141,
+    "championName": "Udyr",
+    "riotId": 77,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 89,
+      "renektonWinRate": 64.04,
+      "enemyWinRate": 35.959999999999994
+    }
+  },
+  "Quinn": {
+    "championId": 102,
+    "championName": "Quinn",
+    "riotId": 133,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Baiting and Dodging Quinn's E",
+        "titlePt": "Baitar e Desviar do Salto (E) da Quinn",
+        "contentEn": "Quinn's E (Vault) can interrupt Renekton's E (Slice and Dice). Try to bait out Quinn's E, or save your E to dodge her Vault before engaging for a trade.",
+        "contentPt": "Quinn usará o Salto (E) para te afastar assim que você avançar. Avance com o primeiro E, deixe ela usar o salto, e persiga com o segundo E + Flash + W."
+      },
+      {
+        "titleEn": "Flash for Surprise Gank Follow-up",
+        "titlePt": "All-In Surpresa com Flash e Ganks",
+        "contentEn": "Quinn can easily counter Renekton's engage, but during an allied jungler's gank, you can use Flash W (Ruthless Predator) to stun her, neutralizing her E and creating a kill window.",
+        "contentPt": "Quinn é muito frágil. Coordene com seu caçador ou use Flash + W Fortalecido para travá-la antes que ela consiga responder com cegueira."
+      }
+    ],
+    "stats": {
+      "sampleSize": 266,
+      "renektonWinRate": 54.14,
+      "enemyWinRate": 45.86
+    }
+  },
+  "Varus": {
+    "championId": 143,
+    "championName": "Varus",
+    "riotId": 110,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 205,
+      "renektonWinRate": 51.22,
+      "enemyWinRate": 48.78
+    }
+  },
+  "Vayne": {
+    "championId": 144,
+    "championName": "Vayne",
+    "riotId": 67,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 803,
+      "renektonWinRate": 44.33,
+      "enemyWinRate": 55.67
+    }
+  },
+  "Veigar": {
+    "championId": 145,
+    "championName": "Veigar",
+    "riotId": 45,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 28,
+      "renektonWinRate": 67.86,
+      "enemyWinRate": 32.14
+    }
+  },
+  "Vel'Koz": {
+    "championId": 146,
+    "championName": "Vel'Koz",
+    "riotId": 161,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 4,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Vex": {
+    "championId": 147,
+    "championName": "Vex",
+    "riotId": 711,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 7,
+      "renektonWinRate": 28.57,
+      "enemyWinRate": 71.43
+    }
+  },
+  "Vi": {
+    "championId": 148,
+    "championName": "Vi",
+    "riotId": 254,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 15,
+      "renektonWinRate": 73.33,
+      "enemyWinRate": 26.67
+    }
+  },
+  "Riven": {
+    "championId": 109,
+    "championName": "Riven",
+    "riotId": 92,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Counter Riven's Shield with Empowered W",
+        "titlePt": "Destruir o Escudo do E (Valentia) com W Fortalecido",
+        "contentEn": "When Riven uses her E to generate a shield, use your W with 50 or more Fury to break her shield and deal significant damage and stun. This neutralizes Riven's core survival and trade tool.",
+        "contentPt": "O E de Riven concede um escudo frequente. Use o W Fortalecido para destruir o escudo e punir as trocas dela sem mitigação."
+      },
+      {
+        "titleEn": "Gain Sustained Combat Advantage with Ultimate",
+        "titlePt": "Vantagem de Combate Prolongado com Dominus (R)",
+        "contentEn": "When Riven attempts to trade with her ultimate active, use Renekton's ultimate (R) to gain bonus health and Fury, and deal sustained damage. Renekton gains a significant advantage in sustained combat over Riven while his ultimate is active.",
+        "contentPt": "A Ultimate Dominus (R) de Renekton oferece sustentação de combate superior à Lâmina do Exílio. Ative o R e vença a guerra de atrito."
+      }
+    ],
+    "stats": {
+      "sampleSize": 595,
+      "renektonWinRate": 51.6,
+      "enemyWinRate": 48.4
+    }
+  },
+  "Viego": {
+    "championId": 149,
+    "championName": "Viego",
+    "riotId": 234,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 49,
+      "renektonWinRate": 44.9,
+      "enemyWinRate": 55.1
+    }
+  },
+  "Ryze": {
+    "championId": 111,
+    "championName": "Ryze",
+    "riotId": 13,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Early Lane Pressure",
+        "titlePt": "Pressão Agressiva de Rota no Início",
+        "contentEn": "Since Renekton lacks early mobility and has weak trades, actively seek trades with his double dash using Q and E at levels 1-3 to apply pressure.",
+        "contentPt": "Ryze é dependente de mana e frágil nos níveis iniciais. Force trocas constantes para fazê-lo queimar a barra de mana e forçar recall precoce."
+      },
+      {
+        "titleEn": "Utilizing Empowered W",
+        "titlePt": "Punição Instantânea com W Fortalecido",
+        "contentEn": "Renekton has no shield, so accumulate 50 Fury and use Empowered W (Ruthless Predator) for a powerful stun and damage to create one-sided trades.",
+        "contentPt": "Feche a distância com os dois dashes do E através dos minions e atordoe Ryze com W antes que ele complete a combinação de fluxo de feitiço."
+      }
+    ],
+    "stats": {
+      "sampleSize": 149,
+      "renektonWinRate": 56.38,
+      "enemyWinRate": 43.62
+    }
+  },
+  "Sett": {
+    "championId": 116,
+    "championName": "Sett",
+    "riotId": 875,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Counter Sett's W with Empowered W",
+        "titlePt": "Destruir o Escudo Titânico do W com W Fortalecido",
+        "contentEn": "When Sett attempts to use his W (Haymaker), use Renekton's empowered W (Ruthless Predator) to break his shield and gain an advantage in trades.",
+        "contentPt": "Quando Sett gastar o Cascudo (W) com a barra de determinação cheia, use o W Fortalecido de Renekton para destruir o escudo colossal dele instantaneamente!"
+      },
+      {
+        "titleEn": "Poke and Disengage with E",
+        "titlePt": "Esquivar do Dano Verdadeiro Central do W com o E",
+        "contentEn": "To avoid Sett's Q (Knuckle Down) movement speed approach or his E (Facebreaker), use Renekton's E (Slice and Dice) to safely trade damage and disengage.",
+        "contentPt": "Use o segundo dash do E (Dice) para deslizar para o lado e evitar a linha central do W de Sett, que causa dano verdadeiro."
+      }
+    ],
+    "stats": {
+      "sampleSize": 816,
+      "renektonWinRate": 51.23,
+      "enemyWinRate": 48.77
+    }
+  },
+  "Rumble": {
+    "championId": 110,
+    "championName": "Rumble",
+    "riotId": 68,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Avoid Early Trades",
+        "titlePt": "Evitar Trocas no Nível 1 e 2 Contra o Lança-Chamas",
+        "contentEn": "Rumble possesses strong dueling capabilities even at levels 1-2. During this phase, try to avoid trades as much as possible and focus on farming CS to prevent falling behind.",
+        "contentPt": "O Q de Rumble em Superaquecimento causa dano massivo no início. Espere o nível 3 antes de buscar trocas mais pesadas."
+      },
+      {
+        "titleEn": "Break Shields with Empowered W",
+        "titlePt": "Destruir o Escudo do W com W Fortalecido",
+        "contentEn": "Rumble's W ability provides a shield. It's crucial to use Renekton's empowered W (Ruthless Predator) to break Rumble's shield and gain an advantage in trades.",
+        "contentPt": "O W de Rumble fornece escudo e velocidade. Destrua o escudo com o W Fortalecido e puna-o quando a barra de calor dele estiver fora da zona de perigo."
+      }
+    ],
+    "stats": {
+      "sampleSize": 471,
+      "renektonWinRate": 46.07,
+      "enemyWinRate": 53.93
+    }
+  },
+  "Sion": {
+    "championId": 121,
+    "championName": "Sion",
+    "riotId": 14,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Interrupting Sion's Q Charge",
+        "titlePt": "Interromper o Golpe Demolidor (Q) com o W",
+        "contentEn": "Sion's Q (Decimating Smash) has a long wind-up and is very powerful. When Sion charges his Q, interrupt him with Renekton's W (Ruthless Predator) stun to gain a trade advantage.",
+        "contentPt": "Quando Sion carregar o machado do Q, atordoe-o imediatamente com o W de Renekton para cancelar a canalização e anular todo o dano dele."
+      },
+      {
+        "titleEn": "Breaking Shields with Empowered W",
+        "titlePt": "Destruir o Escudo da Fornalha da Alma com W Fortalecido",
+        "contentEn": "Sion's W (Soul Furnace) shield can be destroyed by Renekton's empowered W (Ruthless Predator). When Sion uses his W, accumulate 50 Fury to use empowered W to neutralize his shield and deal damage.",
+        "contentPt": "O W de Sion concede um escudo de vida máxima. O W Fortalecido destrói o escudo antes que ele consiga detonar o dano mágico em área."
+      }
+    ],
+    "stats": {
+      "sampleSize": 357,
+      "renektonWinRate": 53.5,
+      "enemyWinRate": 46.5
+    }
+  },
+  "Viktor": {
+    "championId": 150,
+    "championName": "Viktor",
+    "riotId": 112,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 94,
+      "renektonWinRate": 42.55,
+      "enemyWinRate": 57.45
+    }
+  },
+  "Xayah": {
+    "championId": 155,
+    "championName": "Xayah",
+    "riotId": 498,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Xerath": {
+    "championId": 156,
+    "championName": "Xerath",
+    "riotId": 101,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 35,
+      "renektonWinRate": 65.71,
+      "enemyWinRate": 34.290000000000006
+    }
+  },
+  "Shen": {
+    "championId": 118,
+    "championName": "Shen",
+    "riotId": 98,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Bait Shen's W and then use your W",
+        "titlePt": "Baitar o Refúgio Espiritual (W) do Shen",
+        "contentEn": "Shen's Spirit's Refuge (W) nullifies Renekton's Ruthless Predator (W). If Shen uses his W, wait a moment for the ability to end before using Renekton's W.",
+        "contentPt": "O W de Shen bloqueia todos os ataques básicos e atordoamento do W de Renekton. Espere a zona de proteção desaparecer para soltar seu W."
+      },
+      {
+        "titleEn": "Utilize Lane Push Advantage",
+        "titlePt": "Interromper a Ultimate do Shen com o W",
+        "contentEn": "Renekton has superior lane pushing power compared to Shen. Quickly push the lane to keep Shen tied to his turret, then look for small skirmishes to gain an advantage.",
+        "contentPt": "Quando Shen começar a canalizar a Ultimate global (Manter a União), atordoe-o imediatamente com o W para cancelar o teleporte dele!"
+      }
+    ],
+    "stats": {
+      "sampleSize": 454,
+      "renektonWinRate": 49.78,
+      "enemyWinRate": 50.22
+    }
+  },
+  "Xin Zhao": {
+    "championId": 157,
+    "championName": "Xin Zhao",
+    "riotId": 5,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 75,
+      "renektonWinRate": 66.67,
+      "enemyWinRate": 33.33
+    }
+  },
+  "Singed": {
+    "championId": 120,
+    "championName": "Singed",
+    "riotId": 27,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Counter Singed's Trades with Empowered W",
+        "titlePt": "Punir as Investidas do Singed com W Fortalecido",
+        "contentEn": "When Singed approaches with his Q activated, stun him with Empowered W and initiate a trade. Even with his Q on, Singed will struggle to deal damage during the stun duration.",
+        "contentPt": "Quando Singed tentar correr em sua direção para usar o Lançar (E), atordoe-o com W Fortalecido e desfira o combo completo antes que ele consiga te jogar no veneno."
+      },
+      {
+        "titleEn": "Dodge Singed's Q with E",
+        "titlePt": "Esquivar da Trilha de Veneno com o E",
+        "contentEn": "When Singed activates his Q to escape or approach, use the second dash of your E ability to dodge his poison trail or close the gap to initiate a trade.",
+        "contentPt": "Nunca persiga Singed em linha reta dentro do veneno do Q. Use seus dashes de E para cortar caminho ou desengajar confortavelmente."
+      }
+    ],
+    "stats": {
+      "sampleSize": 338,
+      "renektonWinRate": 55.62,
+      "enemyWinRate": 44.38
+    }
+  },
+  "Yunara": {
+    "championId": 161,
+    "championName": "Yunara",
+    "riotId": 804,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 9,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Yuumi": {
+    "championId": 162,
+    "championName": "Yuumi",
+    "riotId": 350,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 1,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Zaahen": {
+    "championId": 163,
+    "championName": "Zaahen",
+    "riotId": 904,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 550,
+      "renektonWinRate": 50.18,
+      "enemyWinRate": 49.82
+    }
+  },
+  "Sylas": {
+    "championId": 128,
+    "championName": "Sylas",
+    "riotId": 517,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Early Lane Pressure",
+        "titlePt": "Pressão Constante no Início da Rota",
+        "contentEn": "Sylas has weak early game stats and poor wave clear. Utilize Q and W for trades in levels 1-3 to gain a health advantage and create a CS lead.",
+        "contentPt": "Sylas sofre contra o dano físico constante de Renekton no early game. Force trocas frequentes para deixá-lo com vida baixa e forçar o gasto de mana no W."
+      },
+      {
+        "titleEn": "Maximize Empowered W Usage",
+        "titlePt": "Maximize o Uso do W Fortalecido e Corta-Cura",
+        "contentEn": "Sylas's W provides good sustain with its missing health-based healing. Use Renekton's Empowered W (three attacks, shield break, 1.5-second stun) to nullify Sylas's healing and gain an advantage in trades.",
+        "contentPt": "O W Fortalecido de Renekton remove os escudos de Sylas e, com Feridas Dolorosas (Ignite/Carrasco), anula a cura de virada do W dele."
+      }
+    ],
+    "stats": {
+      "sampleSize": 199,
+      "renektonWinRate": 40.2,
+      "enemyWinRate": 59.8
+    }
+  },
+  "Zeri": {
+    "championId": 166,
+    "championName": "Zeri",
+    "riotId": 221,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 50,
+      "enemyWinRate": 50
+    }
+  },
+  "Ziggs": {
+    "championId": 167,
+    "championName": "Ziggs",
+    "riotId": 115,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 2,
+      "renektonWinRate": 0,
+      "enemyWinRate": 100
+    }
+  },
+  "Teemo": {
+    "championId": 134,
+    "championName": "Teemo",
+    "riotId": 17,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Use W after Teemo's Q",
+        "titlePt": "Usar o W Apenas Após a Cegueira do Q de Teemo",
+        "contentEn": "Teemo's Q (Blinding Dart) nullifies Renekton's W (Ruthless Predator). Confirm Teemo has used his Q, or wait for it to be on cooldown, then use your W to gain an advantage in trades.",
+        "contentPt": "O Dardo Cegante (Q) de Teemo anula completamente o W de Renekton. Espere a cegueira passar ou o Q dele entrar em recarga antes de ativar o W."
+      },
+      {
+        "titleEn": "Utilize E for Trades and Disengages",
+        "titlePt": "Utilizar o Duplo Dash do E para Trocas 'Hit and Run'",
+        "contentEn": "Teemo lacks mobility, so use Renekton's E (Slice and Dice)'s two dashes to quickly engage, trade damage, and disengage using a hit-and-run strategy. Utilizing minions makes this even more effective.",
+        "contentPt": "Teemo é lento e sem mobilidade. Use o primeiro E em um minion para aproximar, atordoe com W, use Q e saia com o segundo E sem sofrer retaliação."
+      }
+    ],
+    "stats": {
+      "sampleSize": 309,
+      "renektonWinRate": 51.46,
+      "enemyWinRate": 48.54
+    }
+  },
+  "Twisted Fate": {
+    "championId": 139,
+    "championName": "Twisted Fate",
+    "riotId": 4,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Disrupt Twisted Fate's Gold Card Usage",
+        "titlePt": "Interromper a Carta Dourada (W)",
+        "contentEn": "Twisted Fate attempts to trade by drawing a Gold Card to stun you. When Twisted Fate begins his card draw animation, quickly approach with your E ability to stun him with an empowered W, or initiate a trade with your Q ability to disrupt his trade and gain an advantage.",
+        "contentPt": "TF na rota top busca pokear e atordoar à distância. Use os dashes do E através da wave para colar nele antes da seleção da carta e explodi-lo com W."
+      },
+      {
+        "titleEn": "Counter Ultimate R Roaming",
+        "titlePt": "Punir a Fragilidade e Responda aos Roamings",
+        "contentEn": "Twisted Fate exerts influence on other lanes by roaming with his ultimate. When Twisted Fate uses his ultimate, immediately use your R ability to gain Rage, then quickly approach with your E ability to stop his roam, or request backup from allies to take down Twisted Fate.",
+        "contentPt": "Com pouca vida base e sem mobilidade de combate, TF morre instantaneamente para qualquer all-in de Renekton com Dominus (R)."
+      }
+    ],
+    "stats": {
+      "sampleSize": 51,
+      "renektonWinRate": 70.59,
+      "enemyWinRate": 29.41
+    }
+  },
+  "Tryndamere": {
+    "championId": 138,
+    "championName": "Tryndamere",
+    "riotId": 23,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Avoid Trades Before Level 3",
+        "titlePt": "Evitar Trocas Estendidas Antes do Nível 3",
+        "contentEn": "Tryndamere is vulnerable to critical strike RNG before Level 3. It's crucial to avoid trades until Level 3 and sustain through the lane with your Q ability.",
+        "contentPt": "Tryndamere com 100% de Fúria pode acertar acertos críticos aleatórios no nível 1 e 2. Aguarde seu kit completo no nível 3 para ditar as regras da rota."
+      },
+      {
+        "titleEn": "Counter Tryndamere's Ultimate with Empowered W",
+        "titlePt": "Controlar a Fúria Imortal (R) com Atordoamento e E",
+        "contentEn": "When Tryndamere uses his ultimate, disable him with your Empowered W (three attacks, shield break, 1.5-second stun) and deal as much damage as possible during his ultimate's duration.",
+        "contentPt": "Quando Tryndamere ultar (5s de invulnerabilidade), atordoe-o com o W Fortalecido de 1.5s e use os dashes de E para kiting e deixá-lo exposto no fim da duração."
+      }
+    ],
+    "stats": {
+      "sampleSize": 222,
+      "renektonWinRate": 50.9,
+      "enemyWinRate": 49.1
+    }
+  },
+  "Zilean": {
+    "championId": 168,
+    "championName": "Zilean",
+    "riotId": 26,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 8,
+      "renektonWinRate": 37.5,
+      "enemyWinRate": 62.5
+    }
+  },
+  "Urgot": {
+    "championId": 142,
+    "championName": "Urgot",
+    "riotId": 6,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Avoiding Urgot's Level 1 Strength",
+        "titlePt": "Evitar o Forte Nível 1 das Pernas de Urgot",
+        "contentEn": "Urgot's Level 1 trade potential is very strong, so avoid trading at Level 1. Instead, focus on clearing minions with your Q skill and building up your Fury.",
+        "contentPt": "No nível 1, a passiva de escopeta nas pernas de Urgot causa dano alto. Espere os níveis 3 a 5 para fazer trocas curtas pelo lado sem passiva ativa."
+      },
+      {
+        "titleEn": "Pressuring and Seeking Kills Before Level 9",
+        "titlePt": "Pressão Agressiva Antes do Nível 9",
+        "contentEn": "Urgot's power spike begins at Level 9. Before then, use strong trades with your E-W combo to pressure the enemy and look for kill windows to widen your lead.",
+        "contentPt": "Antes do nível 9, o W de Urgot possui tempo de recarga e consome muita mana. Pressione com combos rápidos e busque o abate antes que o W dele se torne permanente."
+      }
+    ],
+    "stats": {
+      "sampleSize": 133,
+      "renektonWinRate": 52.63,
+      "enemyWinRate": 47.37
+    }
+  },
+  "Zoe": {
+    "championId": 169,
+    "championName": "Zoe",
+    "riotId": 142,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 13,
+      "renektonWinRate": 46.15,
+      "enemyWinRate": 53.85
+    }
+  },
+  "Zyra": {
+    "championId": 170,
+    "championName": "Zyra",
+    "riotId": 143,
+    "hasData": false,
+    "levelAdvantage": null,
+    "tips": [],
+    "stats": {
+      "sampleSize": 9,
+      "renektonWinRate": 100,
+      "enemyWinRate": 0
+    }
+  },
+  "Trundle": {
+    "championId": 137,
+    "championName": "Trundle",
+    "riotId": 48,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Leveraging First Strike After Level 3",
+        "titlePt": "Aproveitar o Powerspike do Nível 3",
+        "contentEn": "After Level 3, Renekton has the first strike advantage. When Trundle's W (Frozen Domain) is on cooldown or unavailable, use your E-W-Q combo for a quick trade and disengage to avoid Trundle's sustained combat.",
+        "contentPt": "Antes do nível 3, o Q de Trundle rouba seu AD. A partir do nível 3, execute trocas curtas e rápidas (hit and run) para evitar que ele estenda a luta na área do W."
+      },
+      {
+        "titleEn": "Responding to Trundle's Ultimate (R)",
+        "titlePt": "Respondendo à Ultimate Subjugar (R) de Trundle",
+        "contentEn": "When Trundle uses his ultimate (R), he steals your Armor and Magic Resist. Utilize the bonus Health and Fury from Renekton's ultimate (R) to sustain through it, or use your E ability to quickly create distance and outlast Trundle's ultimate duration.",
+        "contentPt": "A Ultimate de Trundle rouba vida e resistências. Não use Dominus (R) imediatamente; guarde seu R para quando a drenagem dele terminar ou use E para recuar e resetar a luta."
+      }
+    ],
+    "stats": {
+      "sampleSize": 86,
+      "renektonWinRate": 53.49,
+      "enemyWinRate": 46.51
+    }
+  },
+  "Vladimir": {
+    "championId": 151,
+    "championName": "Vladimir",
+    "riotId": 8,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Gain Psychological Advantage with Vladimir's W",
+        "titlePt": "Baitar a Poça Sangrenta (W)",
+        "contentEn": "Vladimir's Sanguine Pool (W) can dodge Renekton's Ruthless Predator (W). When Vladimir uses Sanguine Pool, Renekton can either wait for the pool to end and then use W again, or bait out the pool and then attempt a trade with other abilities to gain a psychological advantage.",
+        "contentPt": "A Poça de Vladimir (W) custa 20% da vida atual dele. Force o uso da poça com avanço do E sem gastar o W, e então descarregue o burst quando ele emergir."
+      },
+      {
+        "titleEn": "Pressure with Strong Early Game Trades",
+        "titlePt": "Pressão Avassaladora no Early Game com Anti-Cura",
+        "contentEn": "Renekton possesses strong early game trading potential. In the early game, when Vladimir's Q skill has a long cooldown, utilize the E-W-Q combo to deal significant damage. If Vladimir uses Sanguine Pool (W), disengage, wait for the cooldown, and then re-engage to assert lane dominance.",
+        "contentPt": "Vladimir é muito fraco nos primeiros níveis. Compre um Carrasco ou use Ignite para anular a cura do Q e busque abates solo contínuos."
+      }
+    ],
+    "stats": {
+      "sampleSize": 156,
+      "renektonWinRate": 43.59,
+      "enemyWinRate": 56.41
+    }
+  },
+  "Wukong": {
+    "championId": 154,
+    "championName": "Wukong",
+    "riotId": 62,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Don't Waste Skills on Wukong's Clone",
+        "titlePt": "Não Gastar Habilidades Importantes no Clone (W)",
+        "contentEn": "Wukong's W (Clone) can bait out Renekton's skills, causing you to waste cooldowns. Be careful not to use W (Stun) or empowered Q on the clone. Instead, use your skills on the real Wukong after the clone disappears.",
+        "contentPt": "Preste atenção na postura de parada de Wukong. Guarde seu W Fortalecido para o verdadeiro Wukong e use o Q para acertar ambos em área."
+      },
+      {
+        "titleEn": "Aggressive Trades After Level 3",
+        "titlePt": "Trocas Agressivas a Partir do Nível 3",
+        "contentEn": "Renekton gains an advantage over Wukong starting at Level 3. After accumulating 50 or more Fury, initiate a trade with the E-W-Empowered Q-E combo. If Wukong escapes, use Q to restore health and maintain lane sustain.",
+        "contentPt": "A armadura passiva de Wukong não o salva do burst concentrado e do sustain de Renekton a partir do nível 3. Force trocas curtas e domine a rota."
+      }
+    ],
+    "stats": {
+      "sampleSize": 127,
+      "renektonWinRate": 66.93,
+      "enemyWinRate": 33.06999999999999
+    }
+  },
+  "Warwick": {
+    "championId": 153,
+    "championName": "Warwick",
+    "riotId": 19,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "disadvantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Be Mindful of Warwick's Q Skill Usage",
+        "titlePt": "Cuidado com o Q (Dentes Famintos) de Perseguição",
+        "contentEn": "Warwick's Q grants Unstoppable, allowing him to ignore Renekton's W stun. Either use your W after Warwick uses his Q, or confirm that Warwick's Q is on cooldown before using your W.",
+        "contentPt": "O Q de Warwick pode segurar e seguir o seu dash de E. Use o W para atordoá-lo antes de tentar desengajar."
+      },
+      {
+        "titleEn": "Counter Warwick's Healing with Empowered W",
+        "titlePt": "Anular a Cura Abaixo de 50% de HP com Anti-Cura e Burst",
+        "contentEn": "Warwick has excellent healing capabilities through his Passive and Q skill. Renekton's Empowered W has a shield break effect, so use it to nullify Warwick's healing.",
+        "contentPt": "A passiva de Warwick cura massivamente em vida baixa. Guarde o W Fortalecido e Ignite para explodi-lo antes que ele consiga se curar em combate."
+      }
+    ],
+    "stats": {
+      "sampleSize": 194,
+      "renektonWinRate": 38.14,
+      "enemyWinRate": 61.86
+    }
+  },
+  "Yasuo": {
+    "championId": 158,
+    "championName": "Yasuo",
+    "riotId": 157,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "disadvantage",
+      "lv2": "disadvantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Disable Yasuo's Shield with Empowered W",
+        "titlePt": "Destruir o Escudo Passivo com W Fortalecido",
+        "contentEn": "Yasuo's passive shield and Immortal Shieldbow's shield are disabled by Renekton's Empowered W (Ruthless Predator). When trading with Yasuo, accumulate 50 Fury to use Empowered W to break his shield and initiate a one-sided trade.",
+        "contentPt": "O escudo do fluxo de Yasuo é destruído instantaneamente pelo W Fortalecido de Renekton, abrindo espaço para um combo letal sem resistência."
+      },
+      {
+        "titleEn": "Utilize Lane Priority After Level 3",
+        "titlePt": "Prioridade Total de Rota Após o Nível 3",
+        "contentEn": "While Yasuo may have an advantage before Level 3, Renekton gains strong trading power after Level 3. From Level 3 onwards, actively seek trades to seize lane priority and pressure Yasuo.",
+        "contentPt": "A Parede de Vento (W) de Yasuo é completamente inútil contra todas as habilidades corpo a corpo de Renekton! Pressione e controle a wave com facilidade."
+      }
+    ],
+    "stats": {
+      "sampleSize": 1206,
+      "renektonWinRate": 53.23,
+      "enemyWinRate": 46.77
+    }
+  },
+  "Zac": {
+    "championId": 164,
+    "championName": "Zac",
+    "riotId": 154,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "disadvantage",
+      "lv5": "disadvantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Early Lane Pressure",
+        "titlePt": "Pressão Intensa de Rota no Início",
+        "contentEn": "Zac is weak in the early game. Utilize your Q and W to aggressively trade damage between levels 1-3, and step on Zac's blobs to prevent his health regeneration.",
+        "contentPt": "Zac no top depende de pegar as gotas de gosma para se curar. Pise nas gotas para destruí-las e pressione com Q e W nos níveis 1 a 3."
+      },
+      {
+        "titleEn": "Caution During Dives",
+        "titlePt": "Cuidado em Dives Sob a Torre Devido à Passiva",
+        "contentEn": "Zac is strong at tower diving, so you might be counter-killed by his Q-E-R CC combo during a dive. Check Zac's skill cooldowns and attempt dives cautiously.",
+        "contentPt": "Zac se divide em 4 pedaços ao morrer. Guarde o Q e dano em área para limpar as partes da passiva rapidamente durante dives."
+      }
+    ],
+    "stats": {
+      "sampleSize": 131,
+      "renektonWinRate": 38.93,
+      "enemyWinRate": 61.07
+    }
+  },
+  "Yone": {
+    "championId": 159,
+    "championName": "Yone",
+    "riotId": 777,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Neutralize Yone's Shield with Empowered W",
+        "titlePt": "Neutralizar o Escudo do W com W Fortalecido",
+        "contentEn": "Yone's W ability creates a shield. Accumulate 50 Fury and use your Empowered W (Ruthless Predator) to break Yone's shield and gain an advantage in trades.",
+        "contentPt": "O W de Yone concede um escudo ao acertar você. Use o W Fortalecido de Renekton para quebrar esse escudo e causar dano máximo."
+      },
+      {
+        "titleEn": "Utilize E for Trades",
+        "titlePt": "Utilizar o E para Punir a Forma Espiritual",
+        "contentEn": "Yone's E (Soul Unbound) makes him unstoppable upon recall, but Renekton's E (Slice and Dice) allows for a two-part dash. When Yone engages with E, break his shield with Empowered W, trade damage, then use E to disengage and avoid Yone's return damage.",
+        "contentPt": "Quando Yone usar o E para avançar, use seus dashes para esquivar do Q3 tornado e atordoe-o com W para forçá-lo a recuar precocemente."
+      }
+    ],
+    "stats": {
+      "sampleSize": 3584,
+      "renektonWinRate": 52.85,
+      "enemyWinRate": 47.15
+    }
+  },
+  "Volibear": {
+    "championId": 152,
+    "championName": "Volibear",
+    "riotId": 106,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Counter Volibear's W Heal with Empowered W",
+        "titlePt": "Anular a Cura do W e o Escudo do E com W Fortalecido",
+        "contentEn": "Volibear heals upon reactivating his W after marking a target. Utilize Renekton's Empowered W (Ruthless Predator)'s shield break effect to nullify Volibear's W heal and gain an advantage in trades.",
+        "contentPt": "O W Fortalecido de Renekton quebra o escudo espesso que o E de Volibear cria e ajuda a finalizar a troca antes da segunda mordida de cura dele."
+      },
+      {
+        "titleEn": "Maintain Distance After Short Trades",
+        "titlePt": "Manter Distância Após Trocas Curtas",
+        "contentEn": "Volibear becomes stronger after using his W twice. Renekton should repeatedly engage in short trades, using the E-W-Q combo for quick damage and then disengaging with E to prevent Volibear from reactivating his W.",
+        "contentPt": "Nunca lute em confrontos prolongados contra a passiva de raios do Volibear. Entre, atordoe, cause dano e saia imediatamente com o segundo E."
+      }
+    ],
+    "stats": {
+      "sampleSize": 573,
+      "renektonWinRate": 47.82,
+      "enemyWinRate": 52.18
+    }
+  },
+  "Zed": {
+    "championId": 165,
+    "championName": "Zed",
+    "riotId": 238,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "advantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Stun Zed with W during his ultimate",
+        "titlePt": "Atordoar Zed com o W Logo na Saída da Ultimate",
+        "contentEn": "When Zed uses his ultimate, he is guaranteed to dash to Renekton. Use W (Ruthless Predator) the moment Zed casts his ultimate to stun him and prevent his damage.",
+        "contentPt": "Quando Zed usar a Marca da Morte (R), ele sempre reaparece exatamente atrás de você. Mire seu W nas suas costas para atordoá-lo no primeiro frame!"
+      },
+      {
+        "titleEn": "Counter Zed's assassination attempt with Dominus (R)",
+        "titlePt": "Anular a Tentativa de Assassinato com Dominus (R)",
+        "contentEn": "Before Zed's ultimate mark detonates, activate Dominus (R) to gain bonus health and Fury. This allows you to withstand Zed's burst damage and counter-engage.",
+        "contentPt": "A ativação de Dominus concede vida instantânea para sobreviver à explosão da Marca da Morte, virando a luta a seu favor."
+      }
+    ],
+    "stats": {
+      "sampleSize": 96,
+      "renektonWinRate": 65.62,
+      "enemyWinRate": 34.379999999999995
+    }
+  },
+  "Yorick": {
+    "championId": 160,
+    "championName": "Yorick",
+    "riotId": 83,
+    "hasData": true,
+    "levelAdvantage": {
+      "lv1": "advantage",
+      "lv2": "advantage",
+      "lv3": "advantage",
+      "lv4": "advantage",
+      "lv5": "advantage",
+      "lv6": "disadvantage"
+    },
+    "tips": [
+      {
+        "titleEn": "Countering Yorick's W (Mourning Mist)",
+        "titlePt": "Destruir a Parede (W) Rapidamente com Auto + Q",
+        "contentEn": "Yorick's W is easily destroyed by Renekton's E (Slice and Dice). When Yorick uses W, immediately use E to dash in, disable it, and initiate a trade.",
+        "contentPt": "Se for preso no Procissão Obscura (W) de Yorick, use o reset de auto-ataque ou dash para escapar antes que os carniçais te cerquem."
+      },
+      {
+        "titleEn": "Avoiding Ultimate Trades",
+        "titlePt": "Evitar Lutar Dentro da Donzela da Névoa (R)",
+        "contentEn": "Yorick's ultimate has a long cooldown, while Renekton's ultimate provides bonus health, allowing him to withstand attacks from Yorick's ghouls and Maiden of the Mist. If Yorick uses his ultimate, avoid trading and capitalize on your cooldown advantage.",
+        "contentPt": "A Donzela de Yorick causa dano percentual contínuo. Limpe a Donzela primeiro com seu burst ou force lutas longe dela."
+      }
+    ],
+    "stats": {
+      "sampleSize": 961,
+      "renektonWinRate": 50.68,
+      "enemyWinRate": 49.32
+    }
+  }
+}
