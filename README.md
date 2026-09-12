@@ -5,31 +5,115 @@
 ### *A Community Tribute to [Godrekton](https://www.youtube.com/@Godrekton) & [r/RenektonMains](https://www.reddit.com/r/RenektonMains/)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/release/GuhQuintino/renekton-matchups?color=brightgreen&label=Windows%20Installer)](https://github.com/GuhQuintino/renekton-matchups/releases/latest)
 [![Tauri v2](https://img.shields.io/badge/Tauri-v2-24C8DB?logo=tauri&logoColor=white)](https://tauri.app/)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-Local_Embedded-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Universal i18n](https://img.shields.io/badge/Language-English_%7C_Português-E0B15C)](#-universal-language-support)
 
 <p align="center">
-  <b>The ultimate offline & real-time companion app for Renekton Toplane OTPs and enthusiasts.</b><br/>
+  <b>The offline & real-time companion app for Renekton Toplane OTPs and enthusiasts.</b><br/>
   Powered by Godrekton's 12+ years of mono-Renekton mastery and his legendary 170-champion matchup spreadsheet.
 </p>
 
-[Download Latest Release](https://github.com/GuhQuintino/renekton-matchups/releases) •
+[📥 Download Easy Windows Installer](#-easy-installation-for-gamers-no-coding-required) •
+[App Tutorial & Screenshots](#-how-to-use-the-app-visual-tutorial) •
+[Community Note](#-honest-note-from-the-creator) •
 [Features](#-key-features) •
 [Godrekton's Guides](#-godrektons-8-master-guides) •
-[Installation & Build](#-build-from-source) •
 [Versão em Português](#-sobre-o-projeto-em-português)
 
 ---
 
 </div>
 
+## ⚠️ Honest Note from the Creator
+
+> [!IMPORTANT]
+> **Please Read Before Using:**
+> - **The App is Far from Perfect**: I created this desktop tool purely out of love for Renekton and as a tribute to **Godrekton**. 
+> - **I Have Zero Coding Experience**: This entire project was engineered utilizing **Artificial Intelligence**. Because I am not a professional software developer, there are rough edges, quirks, and areas that need improvement.
+> - **Help from the Community is Needed and Wanted!**: This repository is **100% open-source**. If you are a developer, a designer, or an experienced Renekton player, **pull requests, bug fixes, issue reports, and feedback are very welcome!** Let's make this the ultimate tool for the community together.
+> - **Current App State**:
+>   - 🟢 **As a Matchup Study & Theory Tool: EXCELLENT.** Browsing all 170 matchups, studying Godrekton's exact tips, level 1 starts, runes, combos, item builds, and logging your personal post-game notes is blazing fast, beautiful, and completely offline.
+>   - 🟡 **As a Live Pre-Game / In-Game Assistant: STILL EXPERIMENTAL.** Automatic League client detection (Champ Select parsing and Live In-Game HUD via Riot local API) works in many cases, but can still be unstable or desync depending on system conditions. Manual selection is always available as a stable fallback.
+
+---
+
+## 📥 Easy Installation for Gamers (No Coding Required!)
+
+You **do NOT need** to install Node.js, Rust, Git, or write any commands. Simply install the pre-compiled application:
+
+1. Go to the official **[Releases Page](https://github.com/GuhQuintino/renekton-matchups/releases/latest)**.
+2. Download **`Instalador-Renekton-Matchups.exe`**.
+3. Double-click the downloaded file and follow the standard Windows setup wizard (Next $\rightarrow$ Finish).
+4. Launch **Renekton Matchups** from your Desktop shortcut or Windows Start Menu!
+
+*(If Windows SmartScreen shows an alert, click "More info" $\rightarrow$ "Run anyway". The app is open-source and safe).*
+
+---
+
+## 📸 How to Use the App (Visual Tutorial)
+
+### 1. Champion Search & Instant Filters
+Quickly locate any matchup by typing the champion's name or alias (e.g. *Mundo* or *Wukong*). Filter champions by difficulty rating (*Easy, Medium, Hard, Extreme*) or view your starred favorites.
+
+<div align="center">
+  <img src="Docs/tutorial/01_champion_select_search.png" alt="Champion Search and Sidebar" width="800" />
+</div>
+
+---
+
+### 2. Tactical Matchup Breakdown & 3-Second Pre-Game Decision
+Before the game starts, get the critical setup within 3 seconds:
+- **Primary & Secondary Runes** (e.g. PTA vs Conqueror)
+- **Summoner Spells** (e.g. Flash + Ignite vs Flash + TP)
+- **Starting Items** (D-Blade vs D-Shield vs Long Sword Rush)
+- **Skill Priority & Level 1 Start**
+- **Godrekton's Step-by-Step Strategic Notes** for the lane
+
+<div align="center">
+  <img src="Docs/tutorial/02_tactical_matchup_details.png" alt="Matchup Tactical Details" width="800" />
+</div>
+
+---
+
+### 3. Godrekton's 8 Master Guides & Level 1 Tier List
+Click the **"Guias Gerais / Master Guides"** or **"Level 1 Tier List"** buttons in the header to access Godrekton's deep-dive knowledge:
+- Complete Runes Guide, Mechanics & Animation Cancels, Builds & Items, Fury Management, Summoner Spells, and the Level 1 Ability Starting Tier List.
+
+<div align="center">
+  <img src="Docs/tutorial/03_godrekton_master_guides.png" alt="Godrekton Master Guides" width="800" />
+</div>
+
+---
+
+### 4. Post-Game Notes & Personal Winrate Tracker
+Log your tactical takeaways after every match:
+- Record your match result (**Win / Loss / Remake**).
+- Rate felt difficulty from **1 to 5 stars**.
+- Save notes on **what worked**, **mistakes made**, **KDA**, and **build**.
+- Stored permanently in your local **SQLite** database to calculate your personal winrate against each specific champion over time!
+
+<div align="center">
+  <img src="Docs/tutorial/04_post_game_match_notes.png" alt="Post-Game Match Notes" width="800" />
+</div>
+
+---
+
+### 5. High-Elo Analytics & Combos Visualizer
+Explore high-elo Korean OTP tendencies, power spikes, winrate curves, and visual breakdown of Renekton combos (The Panther Combo, Short Trades, All-In sequences).
+
+<div align="center">
+  <img src="Docs/tutorial/05_combos_and_stats.png" alt="Combos and Analytics" width="800" />
+</div>
+
+---
+
 ## 🌟 The Tribute
 
-This application was engineered as a tribute to **Godrekton**, one of the most dedicated and knowledgeable Renekton one-tricks in League of Legends history (12+ years playing the Butcher of the Sands). His comprehensive Google Sheets guide covering all **170 matchups**, level 1 advantages, fury manipulation, and itemization has helped thousands of top laners climb the ladder.
+This application was engineered as a tribute to **Godrekton**, one of the most dedicated and knowledgeable Renekton one-tricks in League of Legends history (12+ years playing the Butcher of the Sands). His comprehensive spreadsheet covering all **170 matchups**, level 1 advantages, fury manipulation, and itemization has helped thousands of top laners climb the ladder.
 
 - 📺 **YouTube**: [Godrekton's Official Channel](https://www.youtube.com/@Godrekton)
 - 💬 **Reddit**: Join the discussion on [r/RenektonMains](https://www.reddit.com/r/RenektonMains/)
@@ -42,42 +126,27 @@ This application was engineered as a tribute to **Godrekton**, one of the most d
 Switch seamlessly between **English (`en`)** and **Português do Brasil (`pt-br`)** with one click in the header. All 170 champion strategies, master guides, combo visualizers, item names, and UI elements adapt instantly with zero reloading.
 
 ### 🐊 Complete 170-Champion Matchup Database
-- **Instant Search**: Sub-millisecond lookup by name or alias (e.g. *Mundo* $\rightarrow$ Dr. Mundo, *Wukong* $\rightarrow$ MonkeyKing).
-- **3-Second Pre-Game Decision Bar**: Recommended Runes (PTA vs Conqueror), Summoner Spells (Ignite vs TP vs Ghost), Starting Items (D-Blade vs D-Shield vs Long Sword), and Skill Leveling path.
+- **Instant Search**: Sub-millisecond lookup by name or alias.
+- **3-Second Pre-Game Decision Bar**: Recommended Runes, Summoner Spells, Starting Items, and Skill Leveling path.
 - **Difficulty Grading**: Ranked from 1/10 (Very Easy) to 10/10 (Extreme Nightmare) with Godrekton's exact tactical notes.
 
-### 🔄 Real-Time League Client (LCU) & In-Game Detection
+### 🔄 Real-Time League Client (LCU) & In-Game Detection *(Experimental)*
 - **Auto LCU Sync**: Reads the League of Legends lockfile and Live Client Data API.
 - **Picks & Bans Detection**: Automatically parses champion select, filters enemy team picks, and highlights probable Toplaners.
-- **Live In-Game HUD**: Locks your lane opponent automatically at game start. Displays live game timer, opponent stats, level advantages, and a 1-click **Lane Swap** button for flex drafts (e.g. Yasuo mid / Yone top).
-- **Game State Simulator**: Built-in simulator mode to test and explore all game phases (Champ Select, In-Game Level 3, Lane Swap, Post-Game) without needing an active League client running.
+- **Live In-Game HUD**: Locks your lane opponent automatically at game start with a 1-click **Lane Swap** button for flex drafts.
 
 ### 📝 Post-Game Match Notes & Performance Tracker
 - Log tactical lessons directly into your local embedded **SQLite** database.
-- Track match outcome (Win / Loss / Remake), felt difficulty rating (1 to 5 stars), what worked, mistakes made, KDA, and item build.
+- Track match outcome, felt difficulty rating, what worked, mistakes made, KDA, and item build.
 - Generates dynamic opponent-specific Winrate and average felt difficulty statistics.
 
-### 🥋 Combos & Fury Visualizer
-- Visual step-by-step combo sequence cards (The Panther Combo, Standard Short Trade, Level 3 All-In, Dive One-Shot, Fury Double Dash).
-- Rage gauge management indicators showing when to hold, trigger, or split empowered abilities.
-
-### 📊 Level 1 Advantage Tier List
-- **5 Ability Start Tiers**: Q Start (Sustain & Wave Control), W Start (Bush Cheese & Auto-Reset), E Start (Level 1 All-In vs Darius/Tryndamere), E Alcove Start, and Situational Reactive Starts.
-- **3 Item Start Tiers**: Doran's Shield Mandatory, Blade or Shield Flexible, Long Sword Rush.
-
-### 🇰🇷 DeepLoL Live Korean Challenger Analytics
-- Direct 1-click tab integrating live high-elo Korean OTP Renekton data, runes popularity, winrate trends, and matchup counter analytics.
-
 ### 🛡️ 100% Offline & Local-First Architecture
-- All 170 matchups and 8 master guides are pre-seeded into an embedded SQLite engine.
-- Zero network reliance: bundled SVG vector icon fallbacks ensure full offline operation.
-- Compliant with Riot Games third-party developer policies: strictly read-only local API calls, zero memory modification.
+- Pre-seeded embedded SQLite engine (`rusqlite`) and local SVG icon fallbacks.
+- Strictly read-only local API calls, zero memory modification, compliant with Riot Games third-party policies.
 
 ---
 
 ## 📖 Godrekton's 8 Master Guides
-
-Access Godrekton's complete compendium directly inside the app:
 
 | Guide | Description |
 |---|---|
@@ -92,84 +161,53 @@ Access Godrekton's complete compendium directly inside the app:
 
 ---
 
-## 🛠️ Build from Source
+## 🛠️ Build from Source (For Developers)
+
+If you want to contribute, modify code, or compile from source:
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/) (v18 or higher)
+- [Node.js](https://nodejs.org/) (v18+)
 - [Rust & Cargo](https://www.rust-lang.org/tools/install) (latest stable)
-- Visual Studio C++ Build Tools (for Windows desktop target)
+- Visual Studio C++ Build Tools
 
-### Steps
+### Commands
 
 ```bash
-# 1. Clone the repository
+# 1. Clone repository
 git clone https://github.com/GuhQuintino/renekton-matchups.git
 cd renekton-matchups
 
 # 2. Install dependencies
 npm install
 
-# 3. Run frontend in browser preview mode
-npm run dev
-
-# 4. Run native desktop app with live reload (Tauri + Rust)
+# 3. Start development server (with native Tauri + Rust)
 npm run tauri:dev
 
-# 5. Run full test suite (203 tests across all 4 tiers)
+# 4. Run automated test suite (203 tests)
 npm test
 
-# 6. Build production executable installer
+# 5. Build release installer
 npm run tauri:build
-```
-
-The production installer will be generated in `src-tauri/target/release/bundle/nsis/`.
-
----
-
-## 🏗️ Architecture & Tech Stack
-
-```
-champion-matchup/
-├── src/                          # React 19 Frontend
-│   ├── components/               # UI Components (HeroCard, MatchupTabs, InGameHUD, etc.)
-│   │   ├── notes/                # Post-Game SQLite Notes System
-│   │   ├── QuickInfoBar.tsx      # 3-Second Tactical Decision Bar
-│   │   ├── CombosVisualizer.tsx  # Step-by-Step Fury Combo Visualizer
-│   │   └── Header.tsx            # Live Phase Pill & Language Switcher
-│   ├── i18n/                     # Universal Localization System
-│   │   ├── translations/en.ts    # Complete English Translation Dictionary
-│   │   ├── translations/pt-br.ts # Complete PT-BR Translation Dictionary
-│   │   └── LanguageContext.tsx   # Reactive i18n Provider
-│   ├── services/                 # LCU, Live Client Data, DB & Simulator Bridges
-│   └── types/                    # Strict TypeScript Definitions
-├── src-tauri/                    # Rust Backend & Native Host
-│   ├── src/
-│   │   ├── db/                   # Embedded SQLite Database Engine & Migrations
-│   │   ├── lcu/                  # LoL Client Connector & Lockfile Discovery
-│   │   ├── liveclient/           # Live Client Data Poller & Toplane Detector
-│   │   └── main.rs               # Tauri v2 Command Dispatcher
-│   └── Cargo.toml                # Rust Dependencies (tauri v2, rusqlite, reqwest)
-└── tests/                        # 203 Automated Verification Tests
-    ├── tier1_feature_coverage/   # Features F1 to F19
-    ├── tier2_boundary_corner/    # B1 to B8 Robustness & Injection Edge Cases
-    ├── tier3_cross_feature/      # Cross-Module Integration Flows
-    └── tier4_real_world_scenarios/# Full Ranked Match End-to-End Simulations
 ```
 
 ---
 
 ## 🇧🇷 Sobre o Projeto (Em Português)
 
-### O Tributo
-Este aplicativo desktop foi criado como uma homenagem da comunidade ao **Godrekton**, mono Renekton há mais de 12 anos e autor da famosa planilha com 170 confrontos da rota superior. O objetivo é transformar todo o conhecimento estratégico da planilha em uma ferramenta nativa, ultrarrápida e moderna para auxiliar a comunidade global e brasileira.
+### ⚠️ Nota Sincera do Criador
+> **Aviso Importante:**
+> - **O app não está perfeito (longe disso)**: Criei essa ferramenta desktop como uma homenagem ao **Godrekton** e para ajudar os jogadores de Renekton.
+> - **Não sou programador**: Fiz o projeto **utilizando 100% Inteligência Artificial**, sem conhecimento prévio de desenvolvimento de software. Por isso, podem existir bugs, imperfeições e detalhes para arrumar.
+> - **A comunidade é muito bem-vinda para ajudar!**: O projeto é **100% código aberto**. Quem souber programar ou quiser colaborar com melhorias, fique à vontade para abrir Issues e enviar Pull Requests no GitHub!
+> - **Estado do Aplicativo**:
+>   - 🟢 **Para Estudo de Matchups e Teoria: MUITO BOM.** Consultar os 170 matchups, ver runas, itens iniciais, dicas do Godrekton, combos e salvar anotações pós-jogo no banco SQLite local funciona muito bem e é super rápido e offline.
+>   - 🟡 **Para Uso Pré ou In-Game ao Vivo: AINDA EM DESENVOLVIMENTO.** A detecção automática no Champ Select e In-Game através da API local do LoL ainda é experimental e pode falhar ou desincronizar dependendo do computador.
 
-### Destaques
-- **Troca de Idioma em 1 Clique**: Suporte completo para Inglês e Português do Brasil com terminologia oficial do League of Legends.
-- **Detecção Automática do LoL**: Sincroniza com o Cliente Riot e a Live Client Data API para identificar o adversário de lane no Top em tempo real.
-- **HUD Durante a Partida**: Mostra vantagens de nível, cronômetro de jogo, dicas táticas instantâneas e botão de troca de lane.
-- **Anotações Pós-Jogo em SQLite Local**: Registre o que funcionou e o que errou em cada confronto para gerar histórico e winrate pessoal por campeão.
-- **Guias Completos do Godrekton**: 8 seções detalhadas de runas, combos cancel-animation, gerenciamento de fúria e builds.
-- **Totalmente Offline**: Banco SQLite embutido com ícones vetoriais locais para funcionar mesmo sem conexão com a internet.
+### 📥 Instalação Fácil para Jogadores (Sem complicação)
+1. Vá na aba de **[Releases](https://github.com/GuhQuintino/renekton-matchups/releases/latest)** aqui do GitHub.
+2. Baixe o arquivo **`Instalador-Renekton-Matchups.exe`**.
+3. Dê dois cliques no instalador e siga o assistente de instalação normal do Windows.
+4. Abra o atalho criado na sua Área de Trabalho e pronto! Não precisa instalar Node, Rust ou rodar nada no terminal.
 
 ---
 
@@ -183,4 +221,4 @@ Este aplicativo desktop foi criado como uma homenagem da comunidade ao **Godrekt
 
 ## 📄 License
 
-Distributed under the [MIT License](LICENSE). Feel free to inspect, contribute, or fork!
+Distributed under the [MIT License](LICENSE). Contributions, bug reports, and suggestions are warmly welcomed!
